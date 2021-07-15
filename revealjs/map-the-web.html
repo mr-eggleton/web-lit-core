@@ -1,141 +1,15 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<html>
 <head>
-  <meta charset="utf-8" />
-  <meta name="generator" content="pandoc" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
   <title>Map the Web</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/reset.css">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/reveal.css">
   <style>
-    html {
-      line-height: 1.5;
-      font-family: Georgia, serif;
-      font-size: 20px;
-      color: #1a1a1a;
-      background-color: #fdfdfd;
-    }
-    body {
-      margin: 0 auto;
-      max-width: 36em;
-      padding-left: 50px;
-      padding-right: 50px;
-      padding-top: 50px;
-      padding-bottom: 50px;
-      hyphens: auto;
-      word-wrap: break-word;
-      text-rendering: optimizeLegibility;
-      font-kerning: normal;
-    }
-    @media (max-width: 600px) {
-      body {
-        font-size: 0.9em;
-        padding: 1em;
-      }
-    }
-    @media print {
-      body {
-        background-color: transparent;
-        color: black;
-        font-size: 12pt;
-      }
-      p, h2, h3 {
-        orphans: 3;
-        widows: 3;
-      }
-      h2, h3, h4 {
-        page-break-after: avoid;
-      }
-    }
-    p {
-      margin: 1em 0;
-    }
-    a {
-      color: #1a1a1a;
-    }
-    a:visited {
-      color: #1a1a1a;
-    }
-    img {
-      max-width: 100%;
-    }
-    h1, h2, h3, h4, h5, h6 {
-      margin-top: 1.4em;
-    }
-    h5, h6 {
-      font-size: 1em;
-      font-style: italic;
-    }
-    h6 {
-      font-weight: normal;
-    }
-    ol, ul {
-      padding-left: 1.7em;
-      margin-top: 1em;
-    }
-    li > ol, li > ul {
-      margin-top: 0;
-    }
-    blockquote {
-      margin: 1em 0 1em 1.7em;
-      padding-left: 1em;
-      border-left: 2px solid #e6e6e6;
-      color: #606060;
-    }
-    code {
-      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
-      font-size: 85%;
-      margin: 0;
-    }
-    pre {
-      margin: 1em 0;
-      overflow: auto;
-    }
-    pre code {
-      padding: 0;
-      overflow: visible;
-    }
-    .sourceCode {
-     background-color: transparent;
-     overflow: visible;
-    }
-    hr {
-      background-color: #1a1a1a;
-      border: none;
-      height: 1px;
-      margin: 1em 0;
-    }
-    table {
-      margin: 1em 0;
-      border-collapse: collapse;
-      width: 100%;
-      overflow-x: auto;
-      display: block;
-      font-variant-numeric: lining-nums tabular-nums;
-    }
-    table caption {
-      margin-bottom: 0.75em;
-    }
-    tbody {
-      margin-top: 0.5em;
-      border-top: 1px solid #1a1a1a;
-      border-bottom: 1px solid #1a1a1a;
-    }
-    th {
-      border-top: 1px solid #1a1a1a;
-      padding: 0.25em 0.5em 0.25em 0.5em;
-    }
-    td {
-      padding: 0.125em 0.5em 0.25em 0.5em;
-    }
-    header {
-      margin-bottom: 4em;
-      text-align: center;
-    }
-    #TOC li {
-      list-style: none;
-    }
-    #TOC a:not(:hover) {
-      text-decoration: none;
-    }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     span.underline{text-decoration: underline;}
@@ -144,19 +18,25 @@
     ul.task-list{list-style: none;}
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/theme/black.css" id="theme">
 </head>
 <body>
-<header id="title-block-header">
-<h1 class="title">Map the Web</h1>
-</header>
-<nav id="TOC" role="doc-toc">
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide">
+  <h1 class="title">Map the Web</h1>
+</section>
+<section id="TOC">
+<nav role="doc-toc"> 
 
 </nav>
+</section>
+
+<section class="slide level3">
+
 <figure>
-<img src="../images/earth-216834_640.jpg" alt="World Wide Web" /><figcaption aria-hidden="true">World Wide Web</figcaption>
+<img data-src="../images/earth-216834_640.jpg" alt="World Wide Web" /><figcaption aria-hidden="true">World Wide Web</figcaption>
 </figure>
 <section id="description" class="notes">
 <h4>Description</h4>
@@ -168,7 +48,7 @@
 <li>Demonstrate how information travels across the web using manipulatives, sketches or through physical movement</li>
 <li>Locate an IP address and explain what information it conveys.</li>
 </ul>
-<div class="notes">
+<aside class="notes">
 <h4 id="time-required">Time Required</h4>
 <p>45 minutes to 1 hour depending on group size</p>
 <h4 id="audience">Audience</h4>
@@ -196,30 +76,34 @@
 </ul>
 <h4 id="earning-digital-badges">Earning Digital Badges</h4>
 <p>Digital badges capture the evidence and are the demonstration knowledge and achievement. Each Core Activity encompasses multiple web literacy skills. Completion of all Core Activities will enable anyone to earn all the web literacy and 21C skills badges. Thus, we encourage you to complete all the Core Activities, and earn badges to capture what you’ve learned. Digitalme is offering web literacy badges through the <a href="https://www.openbadgeacademy.com/mozilladirectory">Open Badges Academy</a>.</p>
-</div>
-<h3 id="introduction">Introduction</h3>
-<div class="notes">
+</aside>
+</section>
+<section id="introduction" class="slide level3">
+<h3>Introduction</h3>
+<aside class="notes">
 <p>[5-10 mins] * If group members are new to each other, the facilitator asks each member of the group to introduce themselves and answer an icebreaker question (such as favorite food, favorite game, what muppet or cartoon character you most resemble). &gt; Tip! The icebreaker question helps learners get to know others in the group and feel more comfortable during the discussion; it can– but does not have to be– web literacy related. &gt; Tip! The facilitator should model a short intro, so learners know what this looks like, and especially, how much time they have for their introduction.</p>
-</div>
-<div class="notes">
+</aside>
+<aside class="notes">
 <ul>
 <li>The facilitator briefly frames and connects this session’s topic to a big idea. Explain that</li>
 </ul>
-</div>
+</aside>
 <ul>
 <li>The internet is probably one of the most, if not the most, important technologies of our time</li>
 <li>It’s the primary way our world stores and shares all kinds of information (personal info, economic info, medical info, scientific info, and much much more)</li>
 </ul>
-<div class="notes">
+<aside class="notes">
 <pre><code>* So it’s important that we understand in a basic way how the internet works
 * When we know this, we can make better decisions about how we use it, and what information we share there.     </code></pre>
-</div>
-<h3 id="how-do-we-see-or-understand-the-internet.">How do we “see” or understand the internet.</h3>
-<div class="notes">
+</aside>
+</section>
+<section id="how-do-we-see-or-understand-the-internet." class="slide level3">
+<h3>How do we “see” or understand the internet.</h3>
+<aside class="notes">
 <ul>
 <li>The facilitator invites learners to discuss the how we “see” or understand the internet. Use following questions to start the conversation.</li>
 </ul>
-</div>
+</aside>
 <ul>
 <li>What does the Internet look like? Can we see it?</li>
 <li>If you had to draw a picture of it, what might that look like?</li>
@@ -227,9 +111,11 @@
 <li>Which metaphors work best for you?</li>
 <li>Can you propose new ones?</li>
 </ul>
-<h3 id="brainstorm-map-elements">Brainstorm Map Elements</h3>
+</section>
+<section id="brainstorm-map-elements" class="slide level3">
+<h3>Brainstorm Map Elements</h3>
 <p>Write down different components of the web, each on one sticky note</p>
-<div class="notes">
+<aside class="notes">
 <p>[5 mins]</p>
 <ul>
 <li><p>Facilitator explains that learners can think of the internet as a system, a collection of parts that create a functional whole. Learners can work together to make a map of this system!</p></li>
@@ -244,9 +130,11 @@ when they are “online” what kind of technology do you use– what’s immedi
 <blockquote>
 <p>Tip! Facilitator should make sure key terms are present: client computer, server, web site, web page, smartphone, email, network, etc.</p>
 </blockquote>
-</div>
-<h3 id="define-web-terms">Define Web Terms</h3>
-<div class="notes">
+</aside>
+</section>
+<section id="define-web-terms" class="slide level3">
+<h3>Define Web Terms</h3>
+<aside class="notes">
 <p>[5 mins]</p>
 <ul>
 <li>If some of the terms the group has generated are unfamiliar, take some time to define them together. Facilitator may want to refer below or other resources for glossary of terms.
@@ -258,16 +146,18 @@ when they are “online” what kind of technology do you use– what’s immedi
 <blockquote>
 <p>Tip! The <a href="https://mozilla.github.io/curriculum-final/offline-icebreakers/session01-web-mechanics-speed-dating.html#overview">web mechanics speed dating activity</a> is a great way to work through some of these definitions</p>
 </blockquote>
-</div>
-<h3 id="assemble-the-map-or-model">Assemble the Map or Model</h3>
-<div class="notes">
+</aside>
+</section>
+<section id="assemble-the-map-or-model" class="slide level3">
+<h3>Assemble the Map or Model</h3>
+<aside class="notes">
 <p>[5 mins]</p>
-</div>
+</aside>
 <ul>
 <li>By placing sticky notes on a board</li>
 <li>Work together to create a diagram of the internet.</li>
 </ul>
-<div class="notes">
+<aside class="notes">
 <ul>
 <li>By placing sticky notes on a board, the group works together to create a diagram of the internet. To help them do so, use the following prompts.</li>
 </ul>
@@ -281,9 +171,11 @@ when they are “online” what kind of technology do you use– what’s immedi
 <blockquote>
 <p>Tip! If learners are very new to these concepts, the facilitator can set up the map herself, explaining each step, the relationships, and how information moves through the system.</p>
 </blockquote>
-</div>
-<h3 id="perform-the-net">Perform the Net</h3>
-<div class="notes">
+</aside>
+</section>
+<section id="perform-the-net" class="slide level3">
+<h3>Perform the Net</h3>
+<aside class="notes">
 <p>[15-20 mins]</p>
 <ul>
 <li>The facilitator should review the following:</li>
@@ -292,28 +184,28 @@ when they are “online” what kind of technology do you use– what’s immedi
 <li>We use a web browser, like Firefox, to access pages on the Web.</li>
 <li>Anytime you ask the Internet to do something- entering a web address into a browser, watching a video on YouTube, or check an email on your smartphone– your request “hops” through several network devices, like routers and switches and servers, on its way from your device to the website’s server.</li>
 </ul>
-</div>
+</aside>
 <ul>
 <li>Show this <a href="https://www.youtube.com/watch?v=ewrBalT_eBM">introductory video</a> to give learners a little more context</li>
 </ul>
-<div class="notes">
+<aside class="notes">
 <ul>
 <li>After watching the video, take a few minutes and ask participants to compare and contrast what they learned from watching the video compared to what they hypothesized together beforehand. How close were we? What did we leave out? What surprised us?</li>
 <li>Facilitator explains to the group that in order to help understand this path, they are going to act out a human version of information moving through the internet, in an obstacle course.</li>
 </ul>
-</div>
+</aside>
 <ul>
 <li>The information will travel from a
 <ul>
 <li>local (client) computer to</li>
-<li>a Local Access Network to<br />
+<li>a Local Area Network to<br />
 </li>
 <li>the Internet to<br />
 </li>
 <li>the website of your choice</li>
 </ul></li>
 </ul>
-<div class="notes">
+<aside class="notes">
 <ul>
 <li>Start by walking learners through a model of the system. Ask the group to gather underneath the “My computer” sign and ask for three volunteers. Hand three of the volunteers the signs labeled
 <ul>
@@ -356,45 +248,223 @@ when they are “online” what kind of technology do you use– what’s immedi
 <li>Ask the packets to form a single-file line and move through the obstacle course as quick as they can! You can have someone time how long it takes everyone to get through the course to see who makes it the fastest. &gt; Tip: to make the obstacle course more interesting, you might place “government spies” between hops. This resource from the EFF explains how third parties might intercept data between hops. Talk with your learners about what data is protected, what’s vulnerable, and to whom. &gt; Tip! if your group is large enough, flood the ISP with requests for a certain server &gt; Tip! During the activity, you may ask learners the following questions: &gt; * What happens at each “hop”? &gt; * Do you think a packet in real life moves faster through the Internet than you did?</li>
 <li>Note: If you don’t have the physical space for this activity, learners can create their understanding of how the parts of the web interact by using objects such as play-doh, straws, strings, or other objects.</li>
 </ul>
-</div>
-<h3 id="optional-ip-addresses">Optional: IP Addresses</h3>
-<div class="notes">
+</aside>
+</section>
+<section id="optional-ip-addresses" class="slide level3">
+<h3>Optional: IP Addresses</h3>
+<aside class="notes">
 <p>[5 mins]</p>
-</div>
+</aside>
 <ul>
 <li>Ask the group how many computers or devices are connected to the internet.</li>
 <li>How do you think each computer is identified or located in the network?</li>
 </ul>
-<div class="notes">
+<aside class="notes">
 <ul>
 <li>Discuss the idea of an address– what makes an address (like a street address, or an email address) useful?</li>
 <li>Explain that it’s important that the address is unique– it points to a specific home or apartment or person, a message sent there goes to that place or person only.</li>
 <li>Introduce the concept of IP addresses: every device or computer in a network or online has an IP (or “Internet Protocol”) address.</li>
 <li>It’s a computer friendly way of describing a website address– computers like numbers!</li>
 <li>IP addresses have 4 sets of numbers in a string.</li>
-<li>If we type this into a browser, it resolves into human-friendly web address. &gt; Tip! If a computer is available, demo how entering an IP address takes you to a human friendly domain name</li>
+<li>If we type this into a browser, it resolves into human-friendly web address.</li>
 </ul>
-</div>
-<h3 id="reflection-and-review">Reflection and Review</h3>
-<div class="notes">
-<p>[5 mins] * In closing, facilitator may ask reflection questions like:</p>
-</div>
+<blockquote>
+<p>Tip! If a computer is available, demo how entering an IP address takes you to a human friendly domain name</p>
+</blockquote>
+</aside>
+</section>
+<section id="reflection-and-review" class="slide level3">
+<h3>Reflection and Review</h3>
+<aside class="notes">
+<p>[5 mins]</p>
+<ul>
+<li>In closing, facilitator may ask reflection questions like:</li>
+</ul>
+</aside>
 <ul>
 <li>What happens on the Internet when you type a Web address and hit enter?</li>
 <li>What are the “parts” of the Internet?</li>
 <li>How do large amounts of information ever make it through low-bandwidth parts of the Net?</li>
 <li>What’s the difference between the Internet and the World Wide Web?</li>
 </ul>
-<div class="notes">
+<aside class="notes">
 <ul>
 <li>Be sure to thank learners for their participation, ideas, and insights.</li>
 </ul>
-<h3 id="learning-experience-reflection">Learning Experience Reflection</h3>
+<section id="learning-experience-reflection" class="slide level3">
+<h3>Learning Experience Reflection</h3>
 <p>[5 mins] * What did you like about this activity? * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience?</p>
-<h3 id="feedback-on-core-curriculum">Feedback on Core Curriculum</h3>
+</section>
+<section id="feedback-on-core-curriculum" class="slide level3">
+<h3>Feedback on Core Curriculum</h3>
 <ul>
 <li>Tell us <a href="https://github.com/mozilla/web-lit-core/issues/8">how and where you’re using the curriculum</a> and <a href="https://github.com/mozilla/web-lit-core/issues/9">what you’ve learned and what you might change</a>.</li>
 </ul>
-</div>
-</body>
+</section>
+</aside>
+</section>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/reveal.js@^4//dist/reveal.js"></script>
+
+  <!-- reveal.js plugins -->
+  <script src="https://unpkg.com/reveal.js@^4//plugin/notes/notes.js"></script>
+  <script src="https://unpkg.com/reveal.js@^4//plugin/search/search.js"></script>
+  <script src="https://unpkg.com/reveal.js@^4//plugin/zoom/zoom.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+        // Display controls in the bottom right corner
+        controls: true,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: true,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'bottom-right',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: false,
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: false,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: false,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: true,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'default',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: true,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'slide',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'fade',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // reveal.js plugins
+        plugins: [
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    </body>
 </html>

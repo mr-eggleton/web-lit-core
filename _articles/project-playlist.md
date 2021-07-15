@@ -1,4 +1,5 @@
 ---
+title: Project Playlist
 layout: page
 toc:
 - "Sharing, Curation, and the Web"

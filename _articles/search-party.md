@@ -1,4 +1,5 @@
 ---
+title: Search Party
 layout: page
 following: _articles/web-detective.md
 toc:

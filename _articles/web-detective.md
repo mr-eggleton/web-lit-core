@@ -1,4 +1,5 @@
 ---
+title: Web Detective
 layout: page
 following: _articles/design-on-the-web.md
 toc:

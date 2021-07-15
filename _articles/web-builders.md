@@ -1,4 +1,5 @@
 ---
+title: Web Builders
 layout: page
 following: _articles/safety-first.md
 toc:

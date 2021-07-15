@@ -1,4 +1,5 @@
 ---
+title: Safety First
 layout: page
 following: _articles/all-the-stickerz.md
 toc:

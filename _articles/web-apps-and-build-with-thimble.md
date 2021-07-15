@@ -1,4 +1,5 @@
 ---
+title: Web Apps and Build with Thimble
 layout: page
 following: _articles/web-builders.md
 toc:

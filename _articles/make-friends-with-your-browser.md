@@ -1,4 +1,5 @@
 ---
+title: Make Friends With Your Browser
 layout: page
 following: _articles/search-party.md
 toc:

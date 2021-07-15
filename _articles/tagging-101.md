@@ -1,4 +1,5 @@
 ---
+title: Tagging 101
 layout: page
 following: _articles/building-basic-pages.md
 toc:
