@@ -1,7 +1,7 @@
 ---
 title: Web Detective
 layout: page
-following: _articles/design-on-the-web.md
+following: _articles/06-design-on-the-web.md
 toc:
 - "Introduction"
 - "Co-create a list of criteria"

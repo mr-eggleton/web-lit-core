@@ -1,7 +1,7 @@
 ---
 title: All the Stickerz
 layout: page
-following: _articles/crowdsourcing-on-the-web.md
+following: _articles/13-project-playlist.md
 toc:
 - "Introduction"
 - "Pixels"

@@ -1,7 +1,7 @@
 ---
 title: Web Apps and Build with Thimble
 layout: page
-following: _articles/web-builders.md
+following: _articles/10-web-builders.md
 toc:
 - "Introduction"
 - "Meet Thimble, Take A Tour "

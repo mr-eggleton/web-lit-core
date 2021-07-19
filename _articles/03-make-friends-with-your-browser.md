@@ -1,7 +1,7 @@
 ---
 title: Make Friends With Your Browser
 layout: page
-following: _articles/search-party.md
+following: _articles/04-search-party.md
 toc:
 - "Enter The World Wide Web"
 - "Part I"

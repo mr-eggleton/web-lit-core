@@ -1,7 +1,7 @@
 ---
 title: Map the Web
 layout: page
-following: _articles/make-friends-with-your-browser.md
+following: _articles/03-make-friends-with-your-browser.md
 toc:
 - "Introduction"
 - "Brainstorm Map Elements"

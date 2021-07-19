@@ -1,7 +1,7 @@
 ---
 title: Design on the Web
 layout: page
-following: _articles/tagging-101.md
+following: _articles/07-tagging-101.md
 toc:
 - "Introduction"
 - "Visual Design Elements"

@@ -1,7 +1,7 @@
 ---
 title: Safety First
 layout: page
-following: _articles/all-the-stickerz.md
+following: _articles/12-all-the-stickerz.md
 toc:
 - "Introduction"
 - "Part 1: Defining Privacy"

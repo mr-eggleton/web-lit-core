@@ -1,7 +1,7 @@
 ---
 title: Web Builders
 layout: page
-following: _articles/safety-first.md
+following: _articles/11-safety-first.md
 toc:
 - "Introduction"
 - "Activity: Data Collection"

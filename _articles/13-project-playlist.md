@@ -1,6 +1,7 @@
 ---
 title: Project Playlist
 layout: page
+following: _articles/14-crowdsourcing-on-the-web.md
 toc:
 - "Sharing, Curation, and the Web"
 - "Planning Your Playlist"
