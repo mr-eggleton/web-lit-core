@@ -15,12 +15,15 @@ See [crosswalk](https://docs.google.com/document/d/1MKxmLQMSyhDRCFwKcrGHZiHmPUGo
 Other web literacy activities: https://learning.mozilla.org/en-US/activities
 
 #### Open Practices
+
 Working open is one of the underlying tenants of the core curriculum, and also one of web literacy skills. One of the first steps in implementing the core curriculum is understanding what it means to work in the open. Thus, we encourage you to take this one hour, free [working in the open workshop](https://mozilla.teachable.com/p/open-leadership-101) to learn the basics of participation, collaboration, and sharing on community-driven projects. 
 
 #### Spread, Grow, and Improve the Curriculum
+
 This core curriculum is meant to be self-sufficient and catalyze communities around the world to use, spread, grow, and improve it. Thus, please spread the word on why it's important for people in their everyday lives to have these core skills, and let everyone know how the curriculum is being utilized and forked for continuous improvement. 
 
 Here is how you can contribute:
+
 * Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8); we'd also like to know [what you've learned and what might you change](https://github.com/mozilla/web-lit-core/issues/9).
 * translate into different languages
 * remix for different audiences
@@ -31,13 +34,17 @@ Here is how you can contribute:
 First time contributing to open source? Check out this free series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github).
 
 #### Printout Curriculum from GitHub
+
 The best way to do this is opening GitHub in the Chrome browser. 
 
 #### Share your Remixes
+
 For anyone remixing and creating own custom version of the curriculum, we encourage you to add your remixes to https://www.mozillapulse.org/issues/web-literacy.
 
 #### Earning Digital Badges
+
 Digitalme through their [Open Badges Academy](https://www.openbadgeacademy.com/mozilladirectory) is offering digital badges for the web literacy skills if you are interested in earning or having your learners earn badges. To help you with assessment of badges, we created these [guidelines](https://docs.google.com/document/d/19QAgcMiVkkAILcT8PZwohrC5A5Y-eUxEw6FUmsp7zRM/edit) to help organizations and programs that are implementing badging systems and systems for assessing their badges. 
 
 #### Maintainers
+
 This repository is currently maintained by @anmechung and @zee-moz. 
