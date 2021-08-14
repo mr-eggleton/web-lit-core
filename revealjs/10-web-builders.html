@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <title>Web Builders</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/reset.css">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/reveal.css">
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^4//dist/theme/black.css" id="theme">
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide">
+  <h1 class="title">Web Builders</h1>
+</section>
+<section id="TOC">
+<nav role="doc-toc"> 
+
+</nav>
+</section>
+
+<section class="slide level3">
+
+<figure>
+<img data-src="../images/adult-1822559_640.jpg" alt="web builders" /><figcaption aria-hidden="true">web builders</figcaption>
+</figure>
+</section>
+<section id="learning-objectives" class="slide level3">
+<h3>Learning Objectives</h3>
+<ul>
+<li>Define a website builder/content management systems.</li>
+<li>Identify four basic elements of website building tools.</li>
+<li>Describe how the elements of website builders work to create web pages.</li>
+</ul>
+<aside class="notes">
+<h4 id="description">Description</h4>
+<p>In this activity, we introduce learners to systems– called website builders or content management systems– that many people (designers, developers, as well as web newcomers who are non-experts) use to create websites with lots of different pages and frequently updated content, such as blogs or shopping sites. Learners do some data collection, and use analog (pen and paper) examples to explore how web builders work.</p>
+<h4 id="time-required">Time Required</h4>
+<p>45 minutes to 1 hour depending on group size</p>
+<h4 id="audience">Audience</h4>
+<p>Can be tailored for audiences from 13 up; with varying levels of experience with the web.</p>
+<h4 id="materials">Materials</h4>
+<ul>
+<li>Pencil and paper</li>
+<li>Print worksheet with the following information:
+<ul>
+<li>Worksheet 1: Pet Listing</li>
+<li>Pet Name:</li>
+<li>Location:</li>
+<li>Type (cat, dog, etc):</li>
+<li>Age:</li>
+<li>Image:</li>
+<li>Traits:</li>
+<li>Available to Adopt (yes/no):</li>
+</ul></li>
+</ul>
+<h4 id="web-literacy-skills">Web Literacy Skills</h4>
+<ul>
+<li>Code</li>
+<li>Compose</li>
+<li>Design</li>
+</ul>
+<h4 id="st-century-skills">21st Century Skills</h4>
+<ul>
+<li>Communication</li>
+<li>Collaboration</li>
+<li>Creativity</li>
+</ul>
+<h4 id="earning-digital-badges">Earning Digital Badges</h4>
+<p>Digital badges capture the evidence and are the demonstration knowledge and achievement. Each Core Activity encompasses multiple web literacy skills. Completion of all Core Activities will enable anyone to earn all web literacy plus 21C skills badges. Thus, we encourage you to complete all the Core Activities, and earn badges to capture what you’ve learned. Digitalme is offering web literacy badges through the <a href="https://www.openbadgeacademy.com/mozilladirectory">Open Badges Academy</a>.</p>
+</aside>
+</section>
+<section id="introduction" class="slide level3">
+<h3>Introduction</h3>
+<aside class="notes">
+<p>[2 mins]</p>
+</aside>
+<ul>
+<li>Explain:
+<ul>
+<li>Today we’re going to talk about some software tools– called website builders or content management systems– that many people (designers, developers, as well as web newcomers who are non-experts) use to create websites.</li>
+<li>These tools pull together HTML and CSS (Cascading Style Sheets, used to add visual styles to web sites) along with other programming languages to speed the process of website creation.</li>
+<li>But first, let’s do a quick, fun data collection activity– we’ll use this data to model how web builders work.</li>
+</ul></li>
+</ul>
+</section>
+<section id="activity-data-collection" class="slide level3">
+<h3>Activity: Data Collection</h3>
+<aside class="notes">
+<p>[5 mins]</p>
+</aside>
+<ul>
+<li>Facilitator hands out mini-worksheets (print 2 per page/cut to save paper). Ask learners to fill them out. Explain:
+<ul>
+<li>It’s OK to make up the information.</li>
+<li>On the pet worksheet, you can draw a super simple picture– stick figures are totally fine!</li>
+<li>Worksheet text is below. Facilitator can remix as needed.</li>
+<li>Collect worksheets and let learners know we’ll come back to them.</li>
+</ul></li>
+</ul>
+<p>Worksheet 1: Pet Listing Pet Name: Location: Type (cat, dog, etc): Age: Image: Traits: Available to Adopt (yes/no):</p>
+</section>
+<section id="discussion-website-creation" class="slide level3">
+<h3>Discussion: Website Creation</h3>
+<aside class="notes">
+<p>[30 mins]</p>
+</aside>
+<ul>
+<li>Explain: We’ve seen how to build a basic web page—we take content and mark it up in HTML. This works great, especially for sites that won’t change too much or for small sites with just 5 or 6 pages. Ask learners:
+<ul>
+<li>Can you think of some static sites— sites that don’t have new content often, or ever? Or sites with very few pages? Examples might be a small restaurant, etc.</li>
+</ul></li>
+<li>But what if we have information that changes all the time? Or if we have lots and lots of information? What are sites that change a lot? * Examples might be: Weather and news sites, blogs, social media sites like Facebook, instagram, shopping sites.</li>
+<li>What kinds of sites or pages do we visit most often? What does this say about the internet? (i.e. lots of change, lots of new information)</li>
+<li>Let’s imagine we’re making a site with lots of pages– a site that lists different pets, where people can browse the listings see if they want to adopt a pet.</li>
+<li>Ask learners: What pages do we need on our site? (home page, maybe an about page, and maybe a page that talks about each pet)</li>
+<li>So let’s figure out the steps for doing our web site creation process, and write the steps or, in other words, an algorithm for it. Let’s say we have our “home” and “about” pages already. And we’ll use the pet data we just collected. What’s the algorithm we’d write for this process?</li>
+</ul>
+<blockquote>
+<p>Tip! Sample algorithm for creating pet pages is here:</p>
+<ul>
+<li>Open text editor, save new document as .HTML</li>
+<li>Type or paste in content for first pet page
+<ul>
+<li>Pet Name:</li>
+<li>Location:</li>
+<li>Image:</li>
+<li>Age:</li>
+<li>Traits:</li>
+<li>Available to Adopt (yes/no):</li>
+<li>Comment:</li>
+</ul></li>
+<li>Mark it up with HTML
+<ul>
+<li>Add styles for each type of data using CSS</li>
+<li>Save, and check to see that it works in browser</li>
+<li>Open text editor, save new document as .HTML</li>
+</ul></li>
+<li>Paste in content for next pet page
+<ul>
+<li>Pet Name:</li>
+<li>Location:</li>
+<li>Image:</li>
+<li>Age:</li>
+<li>Traits:</li>
+<li>Available to Adopt (yes/no):</li>
+<li>Comment:</li>
+</ul></li>
+<li>Mark it up with HTML</li>
+<li>Add styles using CSS</li>
+<li>Save, and check to see that it works in browser</li>
+<li>(Repeat x times)</li>
+</ul>
+</blockquote>
+<ul>
+<li>Ask learners:
+<ul>
+<li>How does this algorithm look? What do you notice about it?</li>
+<li>How are you going to feel about adding all the pets? Possible responses: it’s repetitive, we’re doing the same thing over and over, tedious to get through all the pets, it’s going to take forever.</li>
+<li>What could we do to improve this process?</li>
+</ul></li>
+<li>Explain that this is the challenge for any site– like a blog or a shopping site, a new site– it will take forever to make all those changes and new pages!</li>
+<li>Explain that developers and designers have created tools– some of which are free and focused on first-time users, like you– that help streamline these processes, so no one has to mark up tens or hundreds or even thousands of similar pages.</li>
+<li>In a web builder, the computer does the hard part! Anytime we have a repetitive process, it’s GREAT work for a software program– computers do tasks like this much better than humans, with no complaining.</li>
+<li>These web builder tools, in their most basic form, combine four elements. We’ll talk about how they work together.
+<ul>
+<li>Content stored in a database</li>
+<li>HTML templates</li>
+<li>CSS design rules</li>
+</ul></li>
+<li>Some code that runs on the to bring all these together, on the fly (PHP, Python, Ruby, Javascript)</li>
+<li>A user simple interface for entering content.
+<ul>
+<li>This interface hides the html, css, and any code from the user. They are sometimes drag-and-drop, or you type in your content and make some simple selections. But we’re going to explore how the web builders work behind the scenes, once all your stuff is entered in the database.</li>
+</ul></li>
+<li>Let’s see how this is done, for our pet site, on paper. First we need our 4 ingredients!
+<ul>
+<li>Content in the database</li>
+</ul></li>
+<li>We’ll cut our sheets up, because we’re going to want to access pieces of data separately.</li>
+</ul>
+<p><img data-src="../images/petprofiles.JPG" alt="pet profiles" /> <img data-src="../images/petdata.jpg" alt="pet data cut up" /></p>
+<ul>
+<li><p>Create an HTML template for the pet page. We’ll leave some blanks where the content will go.</p></li>
+<li><p>See example: <img data-src="../images/pethtml.jpg" alt="html page" /></p></li>
+<li><p>Create some very style rules (different for cats, dogs, lizards).</p></li>
+<li><p>Background color of the page</p></li>
+<li><p>Font size and color <img data-src="../images/petcss.jpg" alt="stylesheet" /></p></li>
+<li><p>Drop some code instructions into the HTML template to tell the computer how to put it all together. We’ll write these where the blue sticky notes are, where we want our data to go. It’s a bit like fill-in-the blank, or mad libs! <img data-src="../images/pethtml-codebox.jpg" alt="html with codeboxes" /></p></li>
+<li><p>If we were developers working on this web site on a computer, we’d do write this in programming language, but here we’ll just write basic instructions, called “pseudo-code.” It’s not the actual wording we’d need for an actual programming language, but it expresses the intent of the instructions.</p></li>
+<li><p>What are the instructions? Let’s write another algorithm. This can be whatever we want in terms of what content to add where, but here’s an example:</p>
+<ul>
+<li>Access the desired pet record</li>
+<li>Put the Pet Name or Pet Number in the title</li>
+<li>Assign the correct style sheet</li>
+<li>Put the pet name in the heading</li>
+<li>Put the image name in the img tag</li>
+<li>Put the traits in the final paragraph</li>
+</ul></li>
+<li><p>Write the instructions you came up with on the sticky notes <img data-src="../images/html-code.jpg" alt="add instructions" /></p></li>
+<li><p>Now, be the code!</p></li>
+<li><p>Have a learner try assembling the page by following the sticky note instructions– this is what the code does! <img data-src="../images/codefill.jpg" alt="fill in the content" /></p></li>
+<li><p>When a client’s browser requests this page for a particular pet (say, Pet #2) the server-side code will pull together the info from the database, assign the correct stylesheet, and send it all along to your browser. It makes the page on the fly! So a page for each pet doesn’t exist in a static way, but is made on-demand.</p></li>
+<li><p>This is what happens behind the scenes in any of the content management systems/ web builder platforms, like Wordpress or SquareSpace or Wix.</p></li>
+<li><p>As a user, you’d mostly be typing content into an interface, and selecting a template, and pressing a “publish” button. The code on the server side and in the browser does the rest! And now YOU know how that works!</p></li>
+</ul>
+</section>
+<aside class="notes">
+<section id="learning-experience-reflection" class="slide level3">
+<h3>Learning Experience Reflection</h3>
+<p>[5 mins]</p>
+<ul>
+<li>What did you like about this activity?</li>
+<li>If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience?</li>
+</ul>
+</section>
+<section id="feedback-on-core-curriculum" class="slide level3">
+<h3>Feedback on Core Curriculum</h3>
+<ul>
+<li>Tell us <a href="https://github.com/mozilla/web-lit-core/issues/8">how and where you’re using the curriculum</a> and <a href="https://github.com/mozilla/web-lit-core/issues/9">what you’ve learned and what you might change</a>.</li>
+</ul>
+</section>
+</aside>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/reveal.js@^4//dist/reveal.js"></script>
+
+  <!-- reveal.js plugins -->
+  <script src="https://unpkg.com/reveal.js@^4//plugin/notes/notes.js"></script>
+  <script src="https://unpkg.com/reveal.js@^4//plugin/search/search.js"></script>
+  <script src="https://unpkg.com/reveal.js@^4//plugin/zoom/zoom.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+        // Display controls in the bottom right corner
+        controls: true,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: true,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'bottom-right',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: false,
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: false,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: false,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: true,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'default',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: true,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'slide',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'fade',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // reveal.js plugins
+        plugins: [
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    </body>
+</html>

@@ -1,5 +1,6 @@
 ---
 title: Crowdsourcing on the Web
+status: todo
 layout: page
 toc:
 - "Introduction"
@@ -100,7 +101,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 * Pose a question about the set of images-- in the ladybug example, ask how many spots on each? Have the solo workers and the group workers do the task, and assemble their data. Give each group a sheet for recording the results. Ask learners to put any images that they can’t interpret aside. 
   
 > Tip! Answers might not be straightforward for all images-- there could be no spots, might see some but not all the spots on a particular bug, might not be able to tell
-> 
+
 * The larger group will likely finish the task first! Whichever group finishes first, ask them to evaluate the “can’t tell” pile together--- can together make a decision-- this should be a quick review process.
 * When either group is done and has done evaluation of the all the images, stop the activity for all groups
 * Ask learners-- 
@@ -138,7 +139,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 * Project Demo
   
 > Tip! Facilitator should do this and if possible have their screen projected so all learners can see.
->  
+  
 * Navigate to Zooniverse, https://www.zooniverse.org
 * Go to the project page:
 

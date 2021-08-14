@@ -1,5 +1,6 @@
 ---
 title: Web Builders
+status: todo
 layout: page
 following: _articles/11-safety-first.md
 toc:
@@ -8,15 +9,18 @@ toc:
 - "Discussion: Website Creation"
 - "Learning Experience Reflection"
 ---
+
 ![web builders](../images/adult-1822559_640.jpg)
 
-#### Description
-In this activity, we introduce learners to systems-- called website builders or content management systems-- that many people (designers, developers, as well as web newcomers who are non-experts) use to create websites with lots of different pages and frequently updated content, such as blogs or shopping sites. Learners do some data collection, and use analog (pen and paper) examples to explore how web builders work.  
-
-#### Learning Objectives
+### Learning Objectives
 * Define a website builder/content management systems.
 * Identify four basic elements of website building tools.
 * Describe how the elements of website builders work to create web pages.
+
+::: notes
+
+#### Description
+In this activity, we introduce learners to systems-- called website builders or content management systems-- that many people (designers, developers, as well as web newcomers who are non-experts) use to create websites with lots of different pages and frequently updated content, such as blogs or shopping sites. Learners do some data collection, and use analog (pen and paper) examples to explore how web builders work.  
 
 #### Time Required
 45 minutes to 1 hour depending on group size
@@ -49,20 +53,30 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 #### Earning Digital Badges
 Digital badges capture the evidence and are the demonstration knowledge and achievement. Each Core Activity encompasses multiple web literacy skills. Completion of all Core Activities will enable anyone to earn all web literacy plus 21C skills badges. Thus, we encourage you to complete all the Core Activities, and earn badges to capture what you've learned. Digitalme is offering web literacy badges through the [Open Badges Academy](https://www.openbadgeacademy.com/mozilladirectory). 
 
+:::
+
 ### Introduction 
+
+::: notes
 [2 mins]
+:::
+
 * Explain:
-* Today we’re going to talk about some software tools-- called website builders or content management systems-- that many people (designers, developers, as well as web newcomers who are non-experts) use to create websites.
-* These tools pull together HTML and CSS (Cascading Style Sheets, used to add visual styles to web sites) along with other programming languages to speed the process of website creation. 
-* But first, let’s do a quick, fun data collection activity-- we’ll use this data to model how web builders work. 
+  * Today we’re going to talk about some software tools-- called website builders or content management systems-- that many people (designers, developers, as well as web newcomers who are non-experts) use to create websites.
+  * These tools pull together HTML and CSS (Cascading Style Sheets, used to add visual styles to web sites) along with other programming languages to speed the process of website creation. 
+  * But first, let’s do a quick, fun data collection activity-- we’ll use this data to model how web builders work. 
 
 ### Activity: Data Collection 
+
+::: notes
 [5 mins]
+:::
+
 * Facilitator hands out mini-worksheets (print 2 per page/cut to save paper). Ask learners to fill them out. Explain: 
-* It’s OK to make up the information.
-* On the pet worksheet, you can draw a super simple picture-- stick figures are totally fine! 
-* Worksheet text is below. Facilitator can remix as needed.
-* Collect worksheets and let learners know we’ll come back to them.
+  * It’s OK to make up the information.
+  * On the pet worksheet, you can draw a super simple picture-- stick figures are totally fine! 
+  * Worksheet text is below. Facilitator can remix as needed.
+  * Collect worksheets and let learners know we’ll come back to them.
 
 Worksheet 1: Pet Listing
 Pet Name:
@@ -74,7 +88,11 @@ Traits:
 Available to Adopt (yes/no):
 
 ### Discussion: Website Creation 
+
+::: notes
 [30 mins]
+:::
+
 * Explain: We’ve seen how to build a basic web page—we take content and mark it up in HTML. This works great, especially for sites that won’t change too much or for small sites with just 5 or 6 pages. Ask learners:     
     * Can you think of some static sites— sites that don’t have new content often, or ever? Or sites with very few pages? Examples might be a small restaurant, etc. 
 * But what if we have information that changes all the time? Or if we have lots and lots of information? What are sites that change a lot? * Examples might be: Weather and news sites, blogs, social media sites like Facebook, instagram, shopping sites. 
@@ -82,7 +100,9 @@ Available to Adopt (yes/no):
 * Let’s imagine we’re making a site with lots of pages-- a site that lists different pets, where people can browse the listings see if they want to adopt a pet.
 * Ask learners: What pages do we need on our site? (home page, maybe an about page, and maybe a page that talks about each pet) 
 * So let’s figure out the steps for doing our web site creation process, and write the steps or, in other words, an algorithm for it. Let’s say we have our “home” and “about” pages already. And we’ll use the pet data we just collected. What’s the algorithm we’d write for this process?
+
 > Tip! Sample algorithm for creating pet pages is here:
+> 
 > * Open text editor, save new document as .HTML
 > * Type or paste in content for first pet page
 >    * Pet Name:
@@ -126,6 +146,7 @@ Available to Adopt (yes/no):
 * Let’s see how this is done, for our pet site, on paper. First we need our 4 ingredients!
     * Content in the database
 * We’ll cut our sheets up, because we’re going to want to access pieces of data separately.
+  
 ![pet profiles](../images/petprofiles.JPG)
 ![pet data cut up](../images/petdata.jpg)
 
@@ -161,14 +182,19 @@ Available to Adopt (yes/no):
 * This is what happens behind the scenes in any of the content management systems/ web builder platforms, like Wordpress or SquareSpace or Wix. 
 * As a user, you’d mostly be typing content into an interface, and selecting a template, and pressing a “publish” button. The code on the server side and in the browser does the rest! And now YOU know how that works!
 
+
+::: notes
+
 ### Learning Experience Reflection 
+
 [5 mins]
+
 * What did you like about this activity?
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
 
 ### Feedback on Core Curriculum
+
 * Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8) and [what you've learned and what you might change](https://github.com/mozilla/web-lit-core/issues/9).
 
-
-
+:::
 

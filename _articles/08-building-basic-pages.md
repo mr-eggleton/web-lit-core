@@ -1,5 +1,6 @@
 ---
 title: Building Basic Pages
+status: todo
 layout: page
 following: _articles/09-web-apps-and-build-with-thimble.md
 toc:
@@ -52,9 +53,11 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 [10 mins]
  
 > Tip! Remind learners of their experience with Tags in the previous lesson (Recommend completing Tagging 101 with learners prior to this activity).
-> 
+
 * Explain to learners that any web page you visit is actually an HTML file, which is just a text file-- a bunch of words--with HyperText or Markup Language added to the content. HTML is the language we use to write tags.
+
 > Tip! If needed, provide a short tour of browser such address bar, home buttons, bookmarks, history.
+
 * These files sometimes contain other kinds of code, like javascript or php, which makes pages-- when displayed in the browser- interactive and flashy and dynamic, pulling in browser code. 
 
 :::
@@ -66,11 +69,14 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 ::: notes
 
 > Tip! To show this idea, open a simple, static page and look. Explain: Let’s look! We can see what a web page looks like behind the scenes, before the browser gets to it, by exploring the “view source.” 
-> 
+ 
 * Because HTML files are just text, they can be written in a basic text editor, and viewed in a browser. If you have a browser and a text editor on your computer-- and nearly EVERYONE does-- you can build a web page!
 * Your pages won’t be ON the web-- for that to happen you need to take the file you create and to upload this to a server so people can access it there, via the URL or web address. 
+
 > Tip! Remind people, maybe through a diagram, that client computers (web users like you) connect to the Internet and access pages that live on server computers out there on the internet. Servers are designed to “serve up” pages to users. The web pages are HTML files viewed in a browser, so they look great
+
 * BUT, for now, you can practice making web pages right here, on your computer. They won’t be on a server on the internet, but you can still create the files and view them in the browser on your own machine. 
+
 > Tip! Here you can point to the diagram, and show that you’re making a page on a client computer, one that’s not sharing files like a server!
 
 :::
@@ -97,6 +103,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
     * What are you doing now? How do you spend your time? What are your favorite things to do, favorite places, foods, music, etc
     * Is there a favorite moment,  proudest moment that stands out?
     * What are your plans and dreams for the future?
+
 > Tip! The interviewer can ask follow-up questions to get at more details, or a fuller story. He or she can ask  open-ended “why” questions about motivations, about preferences, about future plans, to help draw out more insights, or he or she can ask questions to clarify ideas in the story. 
 
 :::
@@ -121,8 +128,9 @@ marking up their story
 ::: notes
 
 * Explain to users that they’ll be marking up their story-- the .html version-- with HTML, to make it ready for display in the browser. Explain that since coding HTML and thinking of and writing content are two different ways of thinking, they should always have content written before they mark it up, rather than write and mark-up at the same time. 
+
 > Tip! A great way to help learners do this, if you have access to an instructor’s computer and projector, is to do the activity on your own content along with learners, and project the results so everyone can see what you’re doing. 
->
+
 * Start the file with a doctype tag-- this is one of the only tags that doesn’t have content inside, and no closing tag-- it’s a lonely single tag, reminding the browser, again that we’re writing html<!DOCTYPE html>
 * Add an <html> and </html> tags that wrap around the ENTIRE page-- so everything inside can get tagged with markup language. 
 * After this, make a section with a set of tags called <head> </head> at the top of the page, before all your written content. We’ll put one bit of content in here for the browser, but we won’t see it appear on the main page itself. This is the page title, which:
@@ -138,21 +146,35 @@ marking up their story
 * Finally, when you’ve added all your tags, save the page! 
 * Now, open your favorite browser, and go to File > open file. Navigate to your folder, and click on the html file you just made. 
 How does it look? Are you seeing your content formatted for the web? Do you see your title appearing in the tab at the top of the browser bar? If things don’t look right, what might have happened? 
+
 > Tip! Facilitator can troubleshoot here--- common problems are missing tags, especially closing tags, typos in tags, a document not saved as html, problems with image file names, etc. Facilitator can walk around and check pages, and discuss or even demo on the projected example what happens when tags are left off (for example, never closing an h1 tag is a great way to show the importance of closing tags).  
+
 * Congratulate everyone on the pages they’ve made! They are now web designers! Remind folks that the pages are still on their local computers, and not actually on the web! But they are ready to go there. 
 * Have a brief discussion about uploading to servers, about web hosting, what it means, how it works, how much it costs, what hosting companies do. 
 
 ### Go Online! 
+
+::: notes
 [15 mins]
+:::
+
 * If your institution has server space and resources available, show participants how to use a file transfer application (such as fetch) to transfer their pages to a folder on the server. Talk about UPLOADING vs DOWNLOADING
 * Discuss how the URL will be constructed, ask users to figure out their own URLs -- domain name, class folder name, personal folder name, page name.
 * Once all the pages are on the server, have users point their browsers to the URL on the web to see their pages. You’re on the web for real! Woo-hoo!
+
 > Tip! If time, have a brief discussion of web hosting, what it means, how it works, how much it costs, what hosting companies do. 
 
+::: notes
+
 ### Learning Experience Reflection 
+
 [5 mins]
+
 * What did you like about this activity?
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
 
 ### Feedback on Core Curriculum
+
 * Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8) and [what you've learned and what you might change](https://github.com/mozilla/web-lit-core/issues/9).
+
+:::

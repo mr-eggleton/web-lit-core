@@ -1,5 +1,6 @@
 ---
 title: Web Detective
+status: todo
 layout: page
 following: _articles/06-design-on-the-web.md
 toc:
@@ -9,15 +10,19 @@ toc:
 - "Detecting skills in the wild"
 - "Learning Experience Reflection"
 ---
+
 ![detective](../images/olloweb-solution-520914-unsplash.jpg)
 
-#### Description
-Learn to tell truth from fiction while using the web to investigate the existence of the kraken, a huge, dangerous tentacled sea creature, and how to spot misinformation and disinformation.  Learners will collaborate to create a set of rules to guide them in evaluating web sources to solve a research question and compare them to other checklists. 
+### Learning Objectives
 
-#### Learning Objectives
 * Research and evaluate information on the web.
 * Create criteria for evaluating information on the web.
 * List other resources available for evaluating information on the web.
+
+::: notes
+
+#### Description
+Learn to tell truth from fiction while using the web to investigate the existence of the kraken, a huge, dangerous tentacled sea creature, and how to spot misinformation and disinformation.  Learners will collaborate to create a set of rules to guide them in evaluating web sources to solve a research question and compare them to other checklists. 
 
 #### Time Required
 1 hour to 1.5 hours depending on group size
@@ -44,8 +49,15 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 #### Earning Digital Badges
 Digital badges capture the evidence and are the demonstration knowledge and achievement. Each Core Activity encompasses multiple web literacy skills. Completion of all Core Activities will enable anyone to earn all web literacy plus 21C skills badges. Thus, we encourage you to complete all the Core Activities, and earn badges to capture what you've learned. Digitalme is offering web literacy badges through the [Open Badges Academy](https://www.openbadgeacademy.com/mozilladirectory). 
 
+
+:::
+
 ### Introduction
+
+::: notes
 [15-20 mins]
+:::
+
 * Briefly frame and connect this topic to a big idea.
 * Ask learners:
     * Do you search for info on the web? What was the last thing you looked up?
@@ -55,13 +67,19 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
     * Is everything you read or watch online true?
     * How do you know when information on the internet is reliable?
     * How can you tell when it isn’t reliable?
+  
 > * Tip! Discuss with learners the history of fake news, and ask them to give examples of fake news from the past and present, and why it may seem more prominent today (i.e. Fake news is nothing new.  However because of social media, false stories can reach more people more quickly than viral emails could accomplish in the past.) 
+> 
 > * Tip! Discuss the difference between misinformation (information that is false) and disinformation (information is false and deliberately meant to deceive).
 >    * Point out that we can pay attention to what we’re noticing and feeling online, and use these responses plus a set of criteria to help us  be better web detectives.  
 > * Tip! A remix of this is to talk about advertising strategies, hype, etc. that web media is often designed to elicit specific feelings. 
 
 ### Co-create a list of criteria
+
+::: notes
 [10 mins]
+:::
+
 * Create criteria to guide you in determining reliability of information on the web. 
 * Have users think and write on sticky notes individually, and then share with the group.
 * Facilitator should let the group generate these, but can gently guide or fill-in with a few suggestions and prompts, such as:
@@ -73,7 +91,11 @@ sources, authors-- backgrounds, capabilities, freshness/date, familiarity of sit
 * There will be a chance to add or revise the list after the activity.
 
 ### Research and evaluate evidence 
+
+::: notes
 [20 minutes]
+:::
+
 * Split learners into groups of 2 or 3. Explain that each group’s challenge is to examine the following seven sources for evidence that the Kraken, a 100- to 120-foot tentacled sea creature that attacks and sink ships, is real.
 
 ![Kraken attacks ship](../images/kraken.jpg)
@@ -99,12 +121,18 @@ sources, authors-- backgrounds, capabilities, freshness/date, familiarity of sit
     * Ask learners to list:
         * the agreed upon rules (and any other they want to use) in column 1
         * Scores (plus/minus) go in column 2
-        * Notes and comments go in column  3 -- what do you notice? How does the site look? How does the content make you feel? 
+        * Notes and comments go in column  3 -- what do you notice? How does the site look? How does the content make you feel?
+ 
 > * Tips! Encourage learners to talk through their thinking and observations together while they explore and score.
 > * Tips! Encourage learners to click around the websites where these stories were posted for more info about the source, the author, the sponsors, etc.
 > * Tips! Encourage learners to think about the timeline of the stories-- when did they appear? which are most recent? How are the sources and stories connected?
+
 * Ask learners to reflect on what they noticed/felt while they looked at the sites.
+
+::: notes
 [10-20 minutes]
+:::
+
     * Did anything surprise you?
     * Was there a difference between the headline and the main idea? 
     * What differences did you notice in the story from site to site?
@@ -112,15 +140,23 @@ sources, authors-- backgrounds, capabilities, freshness/date, familiarity of sit
     * Which sites felt most trustworthy? Which didn’t? Did you validate sources online? 
     * Are there any new rules you’d propose for the list?
     * Who owns the site? How can we discover the site’s purpose? When was the page created? 
+
+
 * Revise the list of rules, and discuss as needed.
 * Share results of the research question-- what are their answers? How did the list of rules help?
 * Conclusion: Given these stories, we can say that the kraken, a 100- to 120-foot tentacled sea creature that attacks and sink ships, is probably NOT real. In the first story, a rock island is mistaken for a kraken. In the second story, video has been shot of a giant squid, but it is much smaller and shyer than the kraken we are looking for, though it may have inspired the legends. 
 
 ### Detecting skills in the wild 
+
+::: notes
 [15-20 mins] 
+:::
+
 * Explain to learners that they’ve tested their list on a set of curated resources-- news items that were picked in advance. Now, they can test out their lists on news and info sources that they find, “in the wild.” 
 * Brainstorm with learners, or assign a question that is controversial-- either from the news or pop culture.
+
 > * Tip! Be sure learners frame their question clearly, that it is focused on proving or disproving a specific fact .
+
 * Ask learners to do a web search to find 3 or 4 different sources on this controversy.
 * Ask them to use the same process in the previous section to evaluate the claim.
 * Bring the group back together to share results. Ask learners:
@@ -129,7 +165,11 @@ sources, authors-- backgrounds, capabilities, freshness/date, familiarity of sit
     * Is there anything you’d add or change to your list?
 
 ### Check your Checklist 
+
+::: notes
 [6 mins]
+:::
+
 * Let’s see how your list from above compares to other lists and fact-checking processes. 
 * Break up learners into groups of 3-4 and ask learners to examine: 
     * [How to Spot Fake News from FactCheck.org](http://www.factcheck.org/2016/11/how-to-spot-fake-news/)
@@ -140,25 +180,29 @@ sources, authors-- backgrounds, capabilities, freshness/date, familiarity of sit
     * What did you learn that you didn’t know before?  
     * What if anything is missing from these lists?  
     * How would you encourage others to practice good research/fact-checking techniques?
+  
 > * Tip! Explain to learners that some of these lists are made for and by journalists, who write and publish news-- before the internet, these were the “gatekeepers” of factual information. What does it mean to be a gatekeeper? Are today’s users of social media-- you, if you use and post on social media-- also potential “gatekeepers” of factual information? 
 > * Tip! If time allows, you might consider the adding following activity, which explores how to Fake Your Own News: https://nucleus-network.github.io/missioninfo/activities/fakenews.html#overview
+
 * Explain to learners that there are a number of sites dedicated to fact-checking news, as well as pop culture information and urban legends. [Politifact.com](http://www.politifact.com/), [FactCheck.org](https://www.factcheck.org/)  and the Washington Post’s [Fact Checker Blog](https://www.washingtonpost.com/news/fact-checker/?utm_term=.e09982fe3308) cover news. [Snopes.com](http://snopes.com/) covers news as well as pop culture.
+
 * Ask learners:
     * Have they used sites like this?
     * Are they likely to? 
     * How might the assess the reliability of these site?
 
+
+::: notes
 ### Learning Experience Reflection 
+
 [5 mins]
+
 * What did you like about this activity?
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
 
 ### Feedback on Core Curriculum
+
 * Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8) and [what you've learned and what you might change](https://github.com/mozilla/web-lit-core/issues/9).
 
 
-
-
-
-
-
+:::

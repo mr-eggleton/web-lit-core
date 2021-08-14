@@ -1,5 +1,6 @@
 ---
 layout: page
+status: todo
 title: Web and You
 following: _articles/02-map-the-web.md
 toc:
@@ -9,11 +10,11 @@ toc:
 - "Reflection and Review"
 - "Learning Experience Reflection"
 ---
-![Internet image](../images/background-2462434_640.jpg)
+![Networks](../images/background-2462434_640.jpg)
 
 ### Learning Objectives
 
-* Describe how they and others use and interact on the web
+* Describe how you and others use and interact on the web
 
 ::: notes
 

@@ -1,5 +1,6 @@
 ---
 title: All the Stickerz
+status: todo
 layout: page
 following: _articles/13-project-playlist.md
 toc:
@@ -10,6 +11,7 @@ toc:
 - "Online: Digital Pixel Art"
 - "Learning Experience Reflection"
 ---
+
 ![stickers](../images/luggage-1149289_640.jpg)
 
 ### Learning Objectives

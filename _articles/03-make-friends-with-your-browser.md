@@ -1,5 +1,6 @@
 ---
 title: Make Friends With Your Browser
+status: todo
 layout: page
 following: _articles/04-search-party.md
 toc:
@@ -11,14 +12,17 @@ toc:
 ---
 ![Firefox](../images/Firefox.jpg)
 
-#### Description
-An internet browser, also known as a web browser or simply a browser, is a software program that you use to access the internet and view web pages on your computer. You can think of your browser as your gateway to the internet. Learners will reflect on the tools they use to navigate a website and build on their existing knowledge. 
+### Learning Objectives
 
-#### Learning Objectives
 * Describe the difference between a web browser and a search engine
 * Locate principal tools of a web browser
 * Label parts of a web page
 * Navigate a website 
+
+::: notes
+
+#### Description
+An internet browser, also known as a web browser or simply a browser, is a software program that you use to access the internet and view web pages on your computer. You can think of your browser as your gateway to the internet. Learners will reflect on the tools they use to navigate a website and build on their existing knowledge. 
 
 #### Time Required
 30-45 minutes depending on group size
@@ -42,13 +46,24 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 #### Earning Digital Badges
 Digital badges capture the evidence and are the demonstration knowledge and achievement. Each Core Activity encompasses multiple web literacy skills. Completion of all Core Activities will enable anyone to earn all the web literacy and 21C skills badges. Thus, we encourage you to complete all the Core Activities, and earn badges to capture what you've learned. Digitalme is offering web literacy badges through the [Open Badges Academy](https://www.openbadgeacademy.com/mozilladirectory). 
 
+::: 
+
+
 ### Enter the World Wide Web
 ### Part I
+
+::: notes
+
 [10 min]
+
+
 * Connect to prior knowledge by asking learners: 
     * What is the difference between a web browser and a search engine? 
     * What are the names of popular web browsers? 
     * What is the most popular search engine?
+
+:::
+
 * Clarify any misconceptions
     * A browser is a free software program that displays websites and allows users to access various websites and web pages on the Internet. You can download any browser you wish. When you buy a computer, it typically has one browser already downloaded so you can immediately access the Internet. Think of the web browser as the doorway into the Internet. 
     * A search engine, such as Google, Yahoo, and Bing are also software programs that searches for particular document when specific words are entered.  When a user types keywords into a search box, the search engine uses algorithms to display results that match that search. 
@@ -73,7 +88,13 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 
 ### Online Activity: Enter the World Wide Web
 ### Part II
+
+::: notes
+
 [15mins]
+
+:::
+
 * Learners will practice navigating a website in preparation for the search activity: Web Detective. 
 * Ask learners when to use a search engine and when we don’t. (If we know the exact web address, we don’t need to do a search). 
 * Choose a web site relevant to your learners and ask them to type the URL into the address bar. 
@@ -88,17 +109,25 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
     * Go to the X page and list 3 pieces of information on this page
     * What web browser are you using? 
 
+
+::: notes
+
 ### Reflection and Review 
+
 [5 mins]
+
 * Facilitator asks learners: how does what you learned today change how you think about web searches, and search results?
 
 ### Learning Experience Reflection
+
 [5 mins]
+
 * What did you like about this activity?
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
 
 ### Feedback on Core Curriculum
+
 * Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8) and [what you've learned and what you might change](https://github.com/mozilla/web-lit-core/issues/9).
 
 
-
+:::

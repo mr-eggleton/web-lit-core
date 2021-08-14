@@ -1,5 +1,6 @@
 ---
 title: Design on the Web
+status: todo
 layout: page
 following: _articles/07-tagging-101.md
 toc:
@@ -12,15 +13,19 @@ toc:
 - "Learning Experience Reflection"
 
 ---
+
 ![web design](../images/ux-788002_640.jpg)
+
+### Learning Objectives
+* Explain how visual design works on the web
+* Identify how web design elements are used to encourage certain behavior
+* Critique and document reactions to a website
+
+::: notes
 
 #### Description
 In this discussion and online activity, learners explore and experience how visual design works on the web, and how web designers use their skills to encourage certain behaviors. Learners compare and contrast the visual and interactive elements of different pages and platforms. In pairs, they narrate and document “user journeys” through a website-- a process that real-life web designers use to test and improve sites.  
 
-#### Learning Objectives
-* Explain how visual design works on the web
-* Identify how web design elements are used to encourage certain behavior
-* Critique and document reactions to a website
 
 #### Time Required
 45 minutes to 1 hour, depending on group size
@@ -46,8 +51,14 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 #### Earning Digital Badges
 Digital badges capture the evidence and are the demonstration knowledge and achievement. Each Core Activity encompasses multiple web literacy skills. Completion of all Core Activities will enable anyone to earn all the web literacy and 21C skills badges. Thus, we encourage you to complete all the Core Activities, and earn badges to capture what you've learned. Digitalme is offering web literacy badges through the [Open Badges Academy](https://www.openbadgeacademy.com/mozilladirectory). 
 
+:::
+
 ### Introduction
+
+::: notes
 [10 mins]
+:::
+
 * Facilitator introduces the idea that the web is a designed space. Everything you experience on the web is a result of a human decision, and a human intention--
     * A button or search bar in a certain spot
     * Text at a certain size
@@ -73,9 +84,15 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 * Facilitator explains that the better the design of the site, the more likely you’ll do what the designer intends.
 
 ### Visual Design Elements 
+
+::: notes
 [5 mins]
-* For many web users (with exception of visually impaired users, those using screen readers) websites have a strong visual component. Ask users: what are some elements of visual design? 
+:::
+
+* For many web users (with exception of visually impaired users, those using screen readers) websites have a strong visual component. Ask users: what are some elements of visual design?
+   
 > Tip! Here, you can use an example to get learners started, or brainstorm a list together first. Some elements might include:
+> 
 > * Color 
 > * Size
 > * Shape
@@ -84,6 +101,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 > * Repetition
 > * Variety
 > * Harmony
+
 * Look at examples-- what is the intention of the site? how is designed used? 
 * For each example, what do you see? What do you see first? What visual design elements are there? What stands out?
 * Two examples to compare and contrast:
@@ -108,7 +126,11 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
         * The little product images up top are playful and fun, they’re evenly sized, you get the sense that there’s lots of them.
 
 ### Interactive Design Elements 
+
+::: notes
 [5 mins]
+:::
+
 * Ask users: what elements make a website interactive?
 * Examples might include: 
 Links, forms, search bars, “like” buttons, buy now buttons, comment boxes, status update boxes, lists of items to scroll through, mouse-overs for pop-ups
@@ -117,19 +139,22 @@ Links, forms, search bars, “like” buttons, buy now buttons, comment boxes, s
 
 ![youtube page with ads](../images/youtube-ads.png)
 
-
-
 ![youtube page with playlist](../images/youtube-playlist.png)
 
-
 > Tip! If you are browsing live, you can try switching into responsive design mode (Tools > Web Developer > Responsive Design Mode) which allows you to see how the site will appear on different devices. 
+
 * Which elements of the site disappear when screen space is smaller, and which are still present? 
 * Seeing a site in this mode can help learners understand what aspects of the site the designer thinks is most important. 
 
 ### User Goals, Site Goals
+
+::: notes
 [5 minutes]
+:::
+
 * Let’s consider the goals that a web site (or the company/organization the site represents) have for interactions on their site, vs. goals of the user. Select an actual site as an example. 
 > Tip! Pick a few common sites, like Amazon.com, or Youtube.com, or any sites frequently used in your audience’s community. You can assign the sites, or let learners select. 
+
 * Ask learners:
     * What are goals users might have related to the site?
     * What are goals the site/company/org might have?
@@ -141,7 +166,11 @@ Links, forms, search bars, “like” buttons, buy now buttons, comment boxes, s
 * Explain to learners that by documenting their experience with sites, they can see how the design of the site works to meet sites’ goals and user’s goals… or not!
 
 ### Investigations and Journeys 
+
+::: notes
 [15 minutes]
+:::
+
 * In this activity, learners will pair up and work together to document their own user journeys with a specific site. The aim is to notice how they’re interacting with the site’s design. Ideally each pair of learners should have a computer to work on. 
 * Facilitator splits group into pairs. Facilitator can select sites for learners to work with, or users can select their own sites. 
 * Ask learners to go to the site with an intention or goal in mind.  
@@ -159,10 +188,15 @@ Links, forms, search bars, “like” buttons, buy now buttons, comment boxes, s
     * Did they stick to their original goal for the session, or did they get sidetracked? 
     * What did they spend the most time doing on the site?
 * Each learner should take about 5-7 minutes browsing a site as a user, and 5-7 minutes documenting their partner’s experience as the listener/note taker.
+
 > Tip! Offline version of above activity: Facilitators could print out a web page for learners to mark up. Both an internal page and the site's home page could be provided (in order to investigate whether the internal page effectively helps a user navigate the rest of the site).  As a follow-on, learners could use a blank sheet of paper to create a prototype of a web page that effectively addresses any issues they see in the handouts provided.
 
 ### Reflection and Review
+
+::: notes
 [5 mins]
+:::
+
 * Facilitator leads a short discussion/reflection session about user journeys. 
 * Facilitator explains that user journeys are a tool that designers use when they test out sites and applications-- they might get users to try using the site and document what they do at each step of the process, to help refine the design.
 * What did learners discover from the user journey exercise? 
@@ -172,10 +206,18 @@ Links, forms, search bars, “like” buttons, buy now buttons, comment boxes, s
 * How did this make you feel? 
 * Do you think you will notice or do anything differently when you’re browsing in the future? 
 
+
+::: notes
+
 ### Learning Experience Reflection 
+
 [5 mins]
+
 * What did you like about this activity?
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
 
 ### Feedback on Core Curriculum
+
 * Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8) and [what you've learned and what you might change](https://github.com/mozilla/web-lit-core/issues/9).
+
+:::
