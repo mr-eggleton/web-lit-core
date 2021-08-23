@@ -1,6 +1,6 @@
 ---
 layout: page
-status: todo
+status: done
 title: Web and You
 following: _articles/02-map-the-web.md
 toc:
@@ -64,10 +64,12 @@ Introduce yourself :
 
 ### Ground Rules
 
-* Establish ground rules/shared agreements. Explain that participants will be learning together-- sharing perspectives and ideas, working together in small groups or pairs, and as a large group. Each person is encouraged to share actively. 
-* Facilitator asks: what can we do to work and learn better together?  Solicit ideas from the group, and make a list of positive behaviors for group work. 
+What can we do to work and learn better together?  
 
 ::: notes
+
+* Establish ground rules/shared agreements. Explain that participants will be learning together-- sharing perspectives and ideas, working together in small groups or pairs, and as a large group. Each person is encouraged to share actively. 
+* Facilitator asks : what can we do to work and learn better together?  Solicit ideas from the group, and make a list of positive behaviors for group work. 
 
 > Tip! Facilitator can add important points if the group does not come up with them. These may include:
 > 
@@ -184,24 +186,24 @@ On the post-it notes write key words you heard in the stories (one word per stic
 * What stands out? 
 
 
-::: notes
+### Reflection and Review : Word Map 2
 
-* Are YOU on the web? How and where are you represented on the web? 
-* How do you express yourself online? Who are your different audiences-- who’s looking or watching? What do you choose to share?
+* Are YOU on the web? 
+* How and where are you represented on the web? 
+* How do you express yourself online? 
+* Who are your different audiences
+  * who’s looking or watching? 
+* What do you choose to share?
+
+
+::: notes
 
 * Put sticky notes again on the wall, and again invite learners to look and discuss. 
 > Tip! The facilitator can use responses to stories and exploration questions to shape the rest of the program-- return to the questions for context, examples, and to address gaps in knowledge and understanding, or leverage special expertise-- ie “we had a question about how a browser works, so let’s explore that now” or “some of you are active youtube users-- what can you tell us about the platform?”  
 
-:::
-
-::: notes
-
 > Tip! Always be respectful of varied viewpoints, ideas, and perspectives when referring to content that the learners share. 
 At the end of the session, thank the learners for their participation, questions, and insights! 
 
-:::
-
-::: notes
 
 * Now that learners have shared their individual stories, the facilitator asks the group to reflect on what they heard (in their own story, and others’ stories) and document and/or discuss all the different ways the group uses the web. 
 
@@ -229,17 +231,15 @@ At the end of the session, thank the learners for their participation, questions
 
 :::
 
-::: notes
 
 ### Learning Experience Reflection 
+
+::: notes
+
 [5 mins]
 
 * What did you like about this activity?
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
-
-:::
-
-::: notes
 
 ### Feedback on Core Curriculum
 * Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8) and [what you've learned and what might you change](https://github.com/mozilla/web-lit-core/issues/9).
