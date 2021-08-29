@@ -250,7 +250,7 @@ At the end of the session, thank the learners for their participation, questions
 
 ### mozilla
 
-Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at [mozilla.org](https://mozilla.org)
+![]( ../images/moz-logo-main-rgb.png)
+![]( ../images/firefox-logo.png )
 
-![mozilla](https://www.mozilla.org/media/protocol/img/logos/mozilla/logo-word-hor.e20791bb4dd4.svg )
-![]( https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo-word-hor-xs.c87882e8c93c.png )
+Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at [mozilla.org](https://mozilla.org)
