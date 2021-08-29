@@ -192,7 +192,7 @@ On the post-it notes write key words you heard in the stories (one word per stic
 * How and where are you represented on the web? 
 * How do you express yourself online? 
 * Who are your different audiences
-  * who’s looking or watching? 
+  * Who’s looking or watching? 
 * What do you choose to share?
 
 
