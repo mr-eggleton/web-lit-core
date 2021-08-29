@@ -232,6 +232,7 @@ At the end of the session, thank the learners for their participation, questions
 :::
 
 
+
 ### Learning Experience Reflection 
 
 ::: notes
@@ -242,6 +243,14 @@ At the end of the session, thank the learners for their participation, questions
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
 
 ### Feedback on Core Curriculum
+
 * Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8) and [what you've learned and what might you change](https://github.com/mozilla/web-lit-core/issues/9).
 
 :::
+
+### ![mozilla](https://www.mozilla.org/media/protocol/img/logos/mozilla/logo-word-hor.e20791bb4dd4.svg )
+
+
+Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at [mozilla.org](https://mozilla.org)
+
+![]( https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo-word-hor-xs.c87882e8c93c.png )

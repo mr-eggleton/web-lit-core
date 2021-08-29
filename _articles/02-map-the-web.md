@@ -13,29 +13,43 @@ toc:
 - "Reflection and Review"
 - "Learning Experience Reflection"
 ---
-![World Wide Web](../images/earth-216834_640.jpg)
+### Learning Objectives
 
-::: notes
-
-#### Description
-In this discussion/mapping/performance activity, learners share what they already know about the web, and collaborate to fill in gaps and answer questions. They work together to organize this information into a visual and spatial “map” that shows the relationships between lots of elements of the web, from servers to websites to tweets to mobile phones. In a final section of the activity, learners “perform the net” by acting out relationships. 
-
-:::
-
-#### Learning Objectives
 * Explain how parts of the internet are related 
 * Demonstrate how information travels across the web using manipulatives, sketches or through physical movement
 * Locate an IP address and explain what information it conveys.
 
+![World Wide Web](../images/earth-216834_640.jpg)
+
+::: notes
+
+### Learning Objectives
+
+* Explain how parts of the internet are related 
+* Demonstrate how information travels across the web using manipulatives, sketches or through physical movement
+* Locate an IP address and explain what information it conveys.
+
+::: notes 
+
+#### Description
+
+In this discussion/mapping/performance activity, learners share what they already know about the web, and collaborate to fill in gaps and answer questions. They work together to organize this information into a visual and spatial “map” that shows the relationships between lots of elements of the web, from servers to websites to tweets to mobile phones. In a final section of the activity, learners “perform the net” by acting out relationships. 
+
+:::
+
+
 ::: notes
 
 #### Time Required
+
 45 minutes to 1 hour depending on group size
 
 #### Audience
+
 Can be tailored for audiences from 13 up; with varying levels of experience with the web.
 
 #### Materials
+
 * Sticky notes
 * Pencils, markers
 * Pre-made signs with the following labels:
@@ -44,14 +58,17 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
     * "Hop 3: The Server" 
 
 #### Web Literacy Skills
+
 * This is an introductory activity to the web literacy skills
 
 #### 21st Century Skills
+
 * Collaboration
 * Communication
 * Problem-Solving
 
 #### Earning Digital Badges
+
 Digital badges capture the evidence and are the demonstration knowledge and achievement. Each Core Activity encompasses multiple web literacy skills. Completion of all Core Activities will enable anyone to earn all the web literacy and 21C skills badges. Thus, we encourage you to complete all the Core Activities, and earn badges to capture what you've learned. Digitalme is offering web literacy badges through the [Open Badges Academy](https://www.openbadgeacademy.com/mozilladirectory). 
 
 :::
@@ -61,6 +78,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 ::: notes
 
 [5-10 mins]
+
 * If group members are new to each other, the facilitator asks each member of the group to introduce themselves and answer an icebreaker question (such as favorite food, favorite game, what muppet or cartoon character you most resemble). 
 > Tip! The icebreaker question helps learners get to know others in the group and feel more comfortable during the discussion; it can-- but does not have to be-- web literacy related. 
 > Tip! The facilitator should model a short intro, so learners know what this looks like, and especially, how much time they have for their introduction. 
@@ -285,3 +303,7 @@ To help them do so, use the following prompts.
 * Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8) and [what you've learned and what you might change](https://github.com/mozilla/web-lit-core/issues/9).
 
 :::
+
+### Mozilla
+
+Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at [mozilla.org](https://mozilla.org)

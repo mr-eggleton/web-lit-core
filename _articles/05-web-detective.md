@@ -206,3 +206,8 @@ sources, authors-- backgrounds, capabilities, freshness/date, familiarity of sit
 
 
 :::
+
+
+### Mozilla
+
+Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at [mozilla.org](https://mozilla.org)
