@@ -50,13 +50,13 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 Introduce yourself :
 
 * Name
-* Favorite food
+* favourite food
 
 ::: notes
 
 [6-10 min]
 
-* The facilitator asks each participant to introduce themselves and answer an icebreaker question (such as favorite food, favorite game, what muppet or cartoon character you most resemble). The icebreaker question helps learners get to know others in the group and feel more comfortable during the discussion; it can-- but does not have to be-- web literacy related. 
+* The facilitator asks each participant to introduce themselves and answer an icebreaker question (such as favourite food, favourite game, what muppet or cartoon character you most resemble). The icebreaker question helps learners get to know others in the group and feel more comfortable during the discussion; it can-- but does not have to be-- web literacy related. 
 
 > Tip! The facilitator should model a short introduction, so learners know what this looks like, and especially, how much time they have for their introduction. 
 
