@@ -1,6 +1,6 @@
 ---
 title: Make Friends With Your Browser
-status: todo
+status: done
 layout: page
 following: _articles/04-search-party.md
 toc:

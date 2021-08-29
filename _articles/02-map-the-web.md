@@ -1,6 +1,6 @@
 ---
 title: Map the Web
-status: todo
+status: done
 layout: page
 following: _articles/03-make-friends-with-your-browser.md
 toc:
