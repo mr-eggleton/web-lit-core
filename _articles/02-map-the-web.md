@@ -1,6 +1,6 @@
 ---
 title: Map the Web
-status: todo
+status: done
 layout: page
 following: _articles/03-make-friends-with-your-browser.md
 toc:
@@ -179,12 +179,15 @@ To help them do so, use the following prompts.
 * We use a web browser, like Firefox, to access pages on the Web. 
 * Anytime you ask the Internet to do something- entering a web address into a browser, watching a video on YouTube, or check an email on your smartphone-- your request "hops" through several network devices, like routers and switches and servers, on its way from your device to the website’s server.
 
+
 :::
 
-* Show this [introductory video](https://www.youtube.com/watch?v=ewrBalT_eBM) to give learners a little more context 
+[introductory video](https://www.youtube.com/watch?v=ewrBalT_eBM) 
+
 
 ::: notes
 
+* Show this [introductory video](https://www.youtube.com/watch?v=ewrBalT_eBM) to give learners a little more context 
 * After watching the video, take a few minutes and ask participants to compare and contrast what they learned from watching the video compared to what they hypothesized together beforehand.  How close were we? What did we leave out? What surprised us? 
 * Facilitator explains to the group that in order to help understand this path, they are going to act out a human version of information moving through the internet, in an obstacle course.
 

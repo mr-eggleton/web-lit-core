@@ -1,6 +1,6 @@
 ---
 title: Make Friends With Your Browser
-status: todo
+status: done
 layout: page
 following: _articles/04-search-party.md
 toc:
@@ -10,7 +10,12 @@ toc:
 - "Reflection and Review"
 - "Learning Experience Reflection"
 ---
+
+::: notes
+
 ![Firefox](../images/Firefox.jpg)
+
+:::
 
 ### Learning Objectives
 
@@ -48,25 +53,44 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 
 ::: 
 
-
 ### Enter the World Wide Web
-### Part I
+
+#### Part I
 
 ::: notes
 
 [10 min]
 
-
 * Connect to prior knowledge by asking learners: 
-    * What is the difference between a web browser and a search engine? 
-    * What are the names of popular web browsers? 
-    * What is the most popular search engine?
 
 :::
 
+* What is the difference between a web browser and a search engine? 
+* What are the names of popular web browsers? 
+* What is the most popular search engine?
+
+::: notes
+
 * Clarify any misconceptions
     * A browser is a free software program that displays websites and allows users to access various websites and web pages on the Internet. You can download any browser you wish. When you buy a computer, it typically has one browser already downloaded so you can immediately access the Internet. Think of the web browser as the doorway into the Internet. 
-    * A search engine, such as Google, Yahoo, and Bing are also software programs that searches for particular document when specific words are entered.  When a user types keywords into a search box, the search engine uses algorithms to display results that match that search. 
+    * A search engine, such as Google, Yahoo, and Bing are also software programs that searches for particular document when specific words are entered.  When a user types keywords into a search box, the search engine uses algorithms to display results that match that search.
+
+:::
+
+### Search and explore
+
+* Open the MS Edge ( web browser ) 
+* It has opened the  browser’s homepage, which is a web page.
+  * Users can select the homepage of their web browsers.  
+* Hover over the icons on the top of the screen (the toolbar) and write down the words that appear on sticky notes.
+* Categorize the tools. 
+  * Which tools allow the user to navigate the page?  
+  * Which tools relate to searching for a website? 
+* Open and close new tabs. 
+  * Why would you keep several tabs open.
+
+::: notes
+
 * Search and explore
     * Ask learners to open one of the web browsers on their computer.  It will be much easier for all learners to open the same web browser as names and options differ slightly among browsers.  This lesson is based on the Firefox browser. 
     * Explain that when they open a browser, they land on that browser’s homepage, which is a web page.  Users can select the homepage of their web browsers.  
@@ -86,14 +110,37 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 * Ask learners to open and close new tabs. Elicit reasons for keeping several tabs open. The point is to eliminate confusion between closing the browser and closing a webpage. You may want to revisit this point after learners have several different web pages open. 
 * Learners may want to write down the words from their sticky notes and draw the icon next to each word or sketch the homepage of the browser and fill in the tools. 
 
+:::
+
 ### Online Activity: Enter the World Wide Web
-### Part II
+#### Part II
 
 ::: notes
 
 [15mins]
 
 :::
+
+* Type the URL [???]( ??? ) into the address bar. 
+* What does .com, .org mean?
+* URL (Uniform Resource Locator) or web address. 
+* Website is a collection of web pages. 
+* What do you see on the web page?
+* Have you ever been on a webpage, have clicked links to other pages and then could not get back to where you wanted to be?  
+* Identify the navigation tools at the top of the page
+
+### Treasure hunt : To Do
+
+* Close your web browser.
+* Goto ??? 
+* Find the following
+  * Look at the extension of the URL. What can we deduce about the type of organization from this URL? 
+  * Identify media on the homepage: What is the name and content? 
+  * Go to the X page and list 3 pieces of information on this page
+  * What web browser are you using? 
+
+
+::: notes
 
 * Learners will practice navigating a website in preparation for the search activity: Web Detective. 
 * Ask learners when to use a search engine and when we don’t. (If we know the exact web address, we don’t need to do a search). 
@@ -109,14 +156,20 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
     * Go to the X page and list 3 pieces of information on this page
     * What web browser are you using? 
 
+:::
 
-::: notes
 
 ### Reflection and Review 
 
+::: notes
+
 [5 mins]
 
+:::
+
 * Facilitator asks learners: how does what you learned today change how you think about web searches, and search results?
+
+::: notes
 
 ### Learning Experience Reflection
 
@@ -133,6 +186,6 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 :::
 
 
-### Mozilla
+### mozilla
 
 Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at [mozilla.org](https://mozilla.org)
