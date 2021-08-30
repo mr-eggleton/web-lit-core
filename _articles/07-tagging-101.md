@@ -12,7 +12,7 @@ toc:
 - "Learning Experience Reflection"
 
 ---
-![tagging](../images/code-2434271_640.jpg)
+![Tagging 101](../images/code-2434271_640.jpg)
 
 ### Learning Objectives
 
@@ -55,9 +55,15 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 
 ### Introduction
 
+* The Internet is a system of interconnected computers
+* World wide web is a system of interconnected pages that lives on the Internet. 
+    * Web sites are spaces to access, share, and interact with multimedia content. 
+    * HyperText Markup Language or HTML is used to make web pages
+    * Access the web, you’re using a piece of software called a browser to display pages.
+
+
 ::: notes
 [3 min]
-:::
 
 * Review core concepts, frame and connect this topic to a big idea. Explain:
     * The Internet is a system of interconnected computers, and the world wide web is a system of interconnected pages that lives on the Internet. 
@@ -69,11 +75,13 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 
 * We’re going to explore HTML today, specifically how we use HTML to make our content -- text, images, etc-- readable by browsers and easy for humans to read and understand.
 
+:::
+
 ### Content & Tags 
 
 ::: notes
+
 (5-7 mins)
-:::
 
 * For this activiy, you need two visual aids:
     * 1) the front page of a newspaper showing images, headlines, bylines, text, paragraphs, columns
@@ -84,10 +92,31 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 
 > Tip! Keep a list of the design elements that come up in discussion--map these to HTML tags later on in the lesson.  
 
+:::
+
+* What is the difference here? 
+* What’s missing? 
+* Which page is more eye catching? 
+* Which page is more interesting? Which is easier to read? 
+* Why? 
+
+
+::: notes
+
 * Key Concept! Explain that this is how web designers use HyperText Markup Language: to add formatting to content on the web, so browser can display it in a way that’s easy to read, and interesting. 
 * Web designers use HTML “tags” to tell the browser what to do with content. 
     * Ask learners, what’s a tag? Where do you have tags? What do they do
 > Tip! If learners are struggling, explain: You have tags on your clothes or your luggage, people tag you on social media, you might tag a blog post… A tag is a little bit of information you attach to something, to identify it in some way, or add special instructions.
+
+:::
+
+### Marking Up
+
+```
+<title> Tag the World </title>
+```
+
+::: notes
 
 * Explain: When web designers write HTML, they take chunks of content and “mark them up” with tags to tell the browser how to show that content. They put a tag at the beginning of the content (the opening tag), and a tag at the end (the closing tag), so the browser knows when to start and stop. 
 * Explain the rules for tagging are:
@@ -105,11 +134,12 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 * With very few exceptions, tags are ALWAYS matched with content, just like the tag examples we discussed.
 * Tell learners that now we’ll experiment with the CONCEPT of tags and tagging in offline activities, before we dive in and see how they work online
 
+:::
+
 ### Offline: Tag The World 
 
 ::: notes
 [10 mins]
-:::
 
 > Tip! If your learners seem comfortable with the concept of opening and closing tags (or you are pressed for time), you can skip this and move on to the next section. If they need more time with this concept, do Tag the World.
 
@@ -118,19 +148,25 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 
 > Tip! Write the following example in large letters on the board, or create a slide to show it. Take your time with this content, and make sure everyone is clear on it-- it’s important!
 
+:::
+
 * Review the rules for tagging:
 * When we want to tag some content, we surround it with a matching pair of words, each word surrounded by  a set of brackets “< >”. Here’s an example tag:
     * <title> Tag the World </title>
 * We ALWAYS use opening and closing tags to surround content.
 * You can tag anything in the room-- make your own tags and hang them up!
 
+::: notes
+
 > Tip! To get learners started, create a sample tag and put it up in the room-- <chair> </chair> for example. Encourage people to have fun, and be creative!
+
+:::
 
 ### Offline: Tag Tag Revolution 
 
 ::: notes
 [10 mins]
-:::
+
 
 * Introduction: Explain to participants that they are about to have a fun dance party to show them how HTML tags assign instructions to content. 
 * Steps: 
@@ -148,11 +184,13 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 * After all the tags have been used, you could have the players with tags move around one at a time to change up who is doing what. This will help help learners understand how tags are applied to content, how they open and close, in HTML.
 * Here in the real world, you have complete freedom to make their own tags names-- later we’ll see that in the coding language HTML, we use a restricted set of tags names that everyone agrees upon, that make sense for web content. But for now, make up whatever tag you want.
 
+:::
+
 ### Tags In Action 
 
 ::: notes
 [15 mins]
-:::
+
 
 * Introduction: Explain that we’ve seen what tags look like, and how they work with content (what’s inside the tags). Now let’s practice using some real tags that are part of the HyperText Markup Language (HTML). 
 * First, let’s check out a simple HTML document-- guess what-- from a web designer and developer, when they are building web pages, what they are working with is HTML code in a simple text file. 
@@ -177,6 +215,8 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 
 > Tip! Remind users of the Map the Web activity, to help them visualize how their client computer is connected. They can access content on web servers, but other computers on the web can’t access the clients files.   
 
+:::
+
 ::: notes
 
 ### Learning Experience Reflection 
@@ -193,6 +233,6 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 :::
 
 
-### Mozilla
+### mozilla
 
 Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at [mozilla.org](https://mozilla.org)
