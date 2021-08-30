@@ -115,6 +115,8 @@ sources, authors-- backgrounds, capabilities, freshness/date, familiarity of sit
 
 ### Research and evaluate evidence 
 
+![Is the Kraken, a 100- to 120-foot tentacled sea creature that attacks and sink ships, real?](../images/kraken.jpg)
+
 ::: notes
 [20 minutes]
 
@@ -122,17 +124,7 @@ sources, authors-- backgrounds, capabilities, freshness/date, familiarity of sit
 
 :::
 
-![Kraken attacks ship](../images/kraken.jpg)
-
-#### “is the Kraken, a 100- to 120-foot tentacled sea creature that attacks and sink ships, real?”
-
-::: notes
-
-* NOTE: These represent two different sets of stories: 1-4 about a shape found in a google Earth image and 5-8 about new underwater video footage. Facilitator can limit to 1-4 or 5-8 as needed, or give each group a different set.
-
-:::
-
-### “is the Kraken, a 100- to 120-foot tentacled sea creature that attacks and sink ships, real?”
+### Is the Kraken, a 100- to 120-foot tentacled sea creature that attacks and sink ships, real?
 
 * [http://www.mirror.co.uk/news/world-news/legendary-120m-kraken-sea-monster-8215560](http://www.mirror.co.uk/news/world-news/legendary-120m-kraken-sea-monster-8215560)
 * [http://www.ufosightingsdaily.com/2016/06/60-meter-giant-squid-found-on-google.html](http://www.ufosightingsdaily.com/2016/06/60-meter-giant-squid-found-on-google.html)
@@ -145,6 +137,8 @@ sources, authors-- backgrounds, capabilities, freshness/date, familiarity of sit
 * [https://en.wikipedia.org/wiki/Kraken](https://en.wikipedia.org/wiki/Kraken)
 
 ::: notes
+
+* NOTE: These represent two different sets of stories: 1-4 about a shape found in a google Earth image and 5-8 about new underwater video footage. Facilitator can limit to 1-4 or 5-8 as needed, or give each group a different set.
 
 * Groups should spend 20 minutes researching together. Facilitator frames this activity:
   * Remind learners that they’ve got a fairly specific question, “is the Kraken, a 100- to 120-foot tentacled sea creature that attacks and sink ships, real?”
