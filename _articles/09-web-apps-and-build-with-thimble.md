@@ -11,7 +11,7 @@ toc:
 - "Learning Experience Reflection"
 ---
 
-![web apps](../images/ipad-820272_640.jpg)
+![Web Apps and Build with Thimble](../images/ipad-820272_640.jpg)
 
 ### Learning Objectives
 
@@ -206,6 +206,6 @@ Revisit/explore the difference between composing and publishing with Thimble OR 
 :::
 
 
-### Mozilla
+### mozilla
 
 Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at [mozilla.org](https://mozilla.org)

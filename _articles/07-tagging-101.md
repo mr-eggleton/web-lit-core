@@ -204,7 +204,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 * When you use these tags, you’re writing HTML! And when the browser sees them, it will transform your web page from a boring block of text to something interesting and easy to read. 
 * Let’s Tag! Get learners to add tags to some existing content. 
 * OFFLINE, For this part, you’ll need some content-- maybe a fun news story or a biography of someone, or some other interesting content, printed out big on 11x 7 sheets, and chopped up into chunks-- paragraphs, headings, links, etc. You’ll also need some sticky note or paper slips for tags. Either write out the tags, or let learners create the (from the list only). Split users into small groups and give each group a collection of text and of tags.
-* ONLINE, For this part you will need a text file with some basic unformatted content in it, same type as above. First ask users to save the file as .html. Explain the purpose of the <head> and <title> tags. Then set them loose to type in their tags!
+* ONLINE, For this part you will need a text file with some basic unformatted content in it, same type as above. First ask users to save the file as .html. Explain the purpose of the ```<head>``` and ```<title>``` tags. Then set them loose to type in their tags!
 
 > Tip! For ONLINE, create a text file with the content, and have users edit it with THE MOST BASIC text editor-- Notepad on a PC or TextEdit on a Mac-- in plain text mode. Facilitator may need to explain the head, title tags.
 

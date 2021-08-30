@@ -10,7 +10,7 @@ toc:
 - "Go Online!"
 - "Learning Experience Reflection"
 ---
-![](../images/building-blocks-456616_640.jpg)
+![Building Basic Pages](../images/building-blocks-456616_640.jpg)
 
 ### Learning Objectives
 * Create a simple web page
@@ -180,6 +180,6 @@ How does it look? Are you seeing your content formatted for the web? Do you see 
 :::
 
 
-### Mozilla
+### mozilla
 
 Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at [mozilla.org](https://mozilla.org)

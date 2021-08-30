@@ -36,7 +36,7 @@
 <section class="slide level3">
 
 <figure>
-<img data-src="../images/adult-1822559_640.jpg" alt="web builders" /><figcaption aria-hidden="true">web builders</figcaption>
+<img data-src="../images/adult-1822559_640.jpg" alt="Web Builders" /><figcaption aria-hidden="true">Web Builders</figcaption>
 </figure>
 </section>
 <section id="learning-objectives" class="slide level3">
@@ -89,6 +89,9 @@
 <aside class="notes">
 <p>[2 mins]</p>
 </aside>
+<p>Website builders or content management systems (CMS)– that many people (designers, developers, as well as web newcomers who are non-experts) use to create websites.</p>
+<p>These tools pull together HTML and CSS (Cascading Style Sheets, used to add visual styles to web sites) along with other programming languages to speed the process of website creation.</p>
+<aside class="notes">
 <ul>
 <li>Explain:
 <ul>
@@ -97,12 +100,12 @@
 <li>But first, let’s do a quick, fun data collection activity– we’ll use this data to model how web builders work.</li>
 </ul></li>
 </ul>
+</aside>
 </section>
 <section id="activity-data-collection" class="slide level3">
 <h3>Activity: Data Collection</h3>
 <aside class="notes">
 <p>[5 mins]</p>
-</aside>
 <ul>
 <li>Facilitator hands out mini-worksheets (print 2 per page/cut to save paper). Ask learners to fill them out. Explain:
 <ul>
@@ -113,23 +116,36 @@
 </ul></li>
 </ul>
 <p>Worksheet 1: Pet Listing Pet Name: Location: Type (cat, dog, etc): Age: Image: Traits: Available to Adopt (yes/no):</p>
+</aside>
 </section>
 <section id="discussion-website-creation" class="slide level3">
 <h3>Discussion: Website Creation</h3>
+<ul>
+<li>Can you think of some static sites— sites that don’t have new content often, or ever?</li>
+<li>What are sites that change a lot?</li>
+<li>What kinds of sites or pages do we visit most often?</li>
+<li>What does this say about the internet?</li>
+</ul>
 <aside class="notes">
 <p>[30 mins]</p>
-</aside>
 <ul>
 <li>Explain: We’ve seen how to build a basic web page—we take content and mark it up in HTML. This works great, especially for sites that won’t change too much or for small sites with just 5 or 6 pages. Ask learners:
 <ul>
 <li>Can you think of some static sites— sites that don’t have new content often, or ever? Or sites with very few pages? Examples might be a small restaurant, etc.</li>
 </ul></li>
-<li>But what if we have information that changes all the time? Or if we have lots and lots of information? What are sites that change a lot? * Examples might be: Weather and news sites, blogs, social media sites like Facebook, instagram, shopping sites.</li>
+<li>But what if we have information that changes all the time? Or if we have lots and lots of information? What are sites that change a lot?
+<ul>
+<li>Examples might be: Weather and news sites, blogs, social media sites like Facebook, instagram, shopping sites.</li>
+</ul></li>
 <li>What kinds of sites or pages do we visit most often? What does this say about the internet? (i.e. lots of change, lots of new information)</li>
 <li>Let’s imagine we’re making a site with lots of pages– a site that lists different pets, where people can browse the listings see if they want to adopt a pet.</li>
 <li>Ask learners: What pages do we need on our site? (home page, maybe an about page, and maybe a page that talks about each pet)</li>
 <li>So let’s figure out the steps for doing our web site creation process, and write the steps or, in other words, an algorithm for it. Let’s say we have our “home” and “about” pages already. And we’ll use the pet data we just collected. What’s the algorithm we’d write for this process?</li>
 </ul>
+</aside>
+</section>
+<section id="pet-page" class="slide level3">
+<h3>Pet Page</h3>
 <blockquote>
 <p>Tip! Sample algorithm for creating pet pages is here:</p>
 <ul>
@@ -166,6 +182,7 @@
 <li>(Repeat x times)</li>
 </ul>
 </blockquote>
+<aside class="notes">
 <ul>
 <li>Ask learners:
 <ul>
@@ -174,8 +191,14 @@
 <li>What could we do to improve this process?</li>
 </ul></li>
 <li>Explain that this is the challenge for any site– like a blog or a shopping site, a new site– it will take forever to make all those changes and new pages!</li>
+</ul>
+</aside>
+<ul>
 <li>Explain that developers and designers have created tools– some of which are free and focused on first-time users, like you– that help streamline these processes, so no one has to mark up tens or hundreds or even thousands of similar pages.</li>
 <li>In a web builder, the computer does the hard part! Anytime we have a repetitive process, it’s GREAT work for a software program– computers do tasks like this much better than humans, with no complaining.</li>
+</ul>
+<p>::: Web Builders</p>
+<ul>
 <li>These web builder tools, in their most basic form, combine four elements. We’ll talk about how they work together.
 <ul>
 <li>Content stored in a database</li>
@@ -187,6 +210,11 @@
 <ul>
 <li>This interface hides the html, css, and any code from the user. They are sometimes drag-and-drop, or you type in your content and make some simple selections. But we’re going to explore how the web builders work behind the scenes, once all your stuff is entered in the database.</li>
 </ul></li>
+</ul>
+</section>
+<section id="building-pet-pages" class="slide level3">
+<h3>Building Pet Pages</h3>
+<ul>
 <li>Let’s see how this is done, for our pet site, on paper. First we need our 4 ingredients!
 <ul>
 <li>Content in the database</li>
@@ -194,15 +222,31 @@
 <li>We’ll cut our sheets up, because we’re going to want to access pieces of data separately.</li>
 </ul>
 <p><img data-src="../images/petprofiles.JPG" alt="pet profiles" /> <img data-src="../images/petdata.jpg" alt="pet data cut up" /></p>
+</section>
+<section id="html-template" class="slide level3">
+<h3>HTML template</h3>
 <ul>
-<li><p>Create an HTML template for the pet page. We’ll leave some blanks where the content will go.</p></li>
-<li><p>See example: <img data-src="../images/pethtml.jpg" alt="html page" /></p></li>
-<li><p>Create some very style rules (different for cats, dogs, lizards).</p></li>
-<li><p>Background color of the page</p></li>
-<li><p>Font size and color <img data-src="../images/petcss.jpg" alt="stylesheet" /></p></li>
-<li><p>Drop some code instructions into the HTML template to tell the computer how to put it all together. We’ll write these where the blue sticky notes are, where we want our data to go. It’s a bit like fill-in-the blank, or mad libs! <img data-src="../images/pethtml-codebox.jpg" alt="html with codeboxes" /></p></li>
-<li><p>If we were developers working on this web site on a computer, we’d do write this in programming language, but here we’ll just write basic instructions, called “pseudo-code.” It’s not the actual wording we’d need for an actual programming language, but it expresses the intent of the instructions.</p></li>
-<li><p>What are the instructions? Let’s write another algorithm. This can be whatever we want in terms of what content to add where, but here’s an example:</p>
+<li>Create an HTML template for the pet page. We’ll leave some blanks where the content will go.</li>
+<li>See example: <img data-src="../images/pethtml.jpg" alt="html page" /></li>
+</ul>
+</section>
+<section id="css" class="slide level3">
+<h3>CSS</h3>
+<ul>
+<li>Create some very simple style rules (different for cats, dogs, lizards).</li>
+<li>Background color of the page</li>
+<li>Font size and color <img data-src="../images/petcss.jpg" alt="stylesheet" /></li>
+</ul>
+</section>
+<section id="processing-instructions" class="slide level3">
+<h3>Processing Instructions</h3>
+<ul>
+<li>Drop some code instructions into the HTML template to tell the computer how to put it all together. We’ll write these where the blue sticky notes are, where we want our data to go. It’s a bit like fill-in-the blank, or mad libs! <img data-src="../images/pethtml-codebox.jpg" alt="html with codeboxes" /></li>
+</ul>
+<aside class="notes">
+<ul>
+<li>If we were developers working on this web site on a computer, we’d do write this in programming language, but here we’ll just write basic instructions, called “pseudo-code.” It’s not the actual wording we’d need for an actual programming language, but it expresses the intent of the instructions.</li>
+<li>What are the instructions? Let’s write another algorithm. This can be whatever we want in terms of what content to add where, but here’s an example:
 <ul>
 <li>Access the desired pet record</li>
 <li>Put the Pet Name or Pet Number in the title</li>
@@ -211,13 +255,23 @@
 <li>Put the image name in the img tag</li>
 <li>Put the traits in the final paragraph</li>
 </ul></li>
+</ul>
+</aside>
+</section>
+<section id="pseudo-code" class="slide level3">
+<h3>pseudo-code</h3>
+<ul>
 <li><p>Write the instructions you came up with on the sticky notes <img data-src="../images/html-code.jpg" alt="add instructions" /></p></li>
 <li><p>Now, be the code!</p></li>
+</ul>
+<aside class="notes">
+<ul>
 <li><p>Have a learner try assembling the page by following the sticky note instructions– this is what the code does! <img data-src="../images/codefill.jpg" alt="fill in the content" /></p></li>
 <li><p>When a client’s browser requests this page for a particular pet (say, Pet #2) the server-side code will pull together the info from the database, assign the correct stylesheet, and send it all along to your browser. It makes the page on the fly! So a page for each pet doesn’t exist in a static way, but is made on-demand.</p></li>
 <li><p>This is what happens behind the scenes in any of the content management systems/ web builder platforms, like Wordpress or SquareSpace or Wix.</p></li>
 <li><p>As a user, you’d mostly be typing content into an interface, and selecting a template, and pressing a “publish” button. The code on the server side and in the browser does the rest! And now YOU know how that works!</p></li>
 </ul>
+</aside>
 </section>
 <aside class="notes">
 <section id="learning-experience-reflection" class="slide level3">
@@ -235,6 +289,10 @@
 </ul>
 </section>
 </aside>
+<section id="mozilla" class="slide level3">
+<h3>mozilla</h3>
+<p>Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href="https://mozilla.org">mozilla.org</a></p>
+</section>
     </div>
   </div>
 
