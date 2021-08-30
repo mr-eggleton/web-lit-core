@@ -1,6 +1,6 @@
 ---
 title: Web Detective
-status: todo
+status: done
 layout: page
 following: _articles/06-design-on-the-web.md
 toc:

@@ -13,7 +13,7 @@ toc:
 - "Reflection and Review"
 - "Learning Experience Reflection"
 ---
-![World Wide Web](../images/earth-216834_640.jpg)
+![Map the Web](../images/earth-216834_640.jpg)
 
 ### Learning Objectives
 

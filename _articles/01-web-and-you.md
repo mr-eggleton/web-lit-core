@@ -10,7 +10,7 @@ toc:
 - "Reflection and Review"
 - "Learning Experience Reflection"
 ---
-![Networks](../images/background-2462434_640.jpg)
+![Web and You](../images/background-2462434_640.jpg)
 
 ### Learning Objectives
 

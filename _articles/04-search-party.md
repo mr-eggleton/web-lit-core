@@ -1,6 +1,6 @@
 ---
 title: Search Party
-status: todo
+status: done
 layout: page
 following: _articles/05-web-detective.md
 toc:
@@ -12,7 +12,7 @@ toc:
 - "Learning Experience Reflection"
 ---
 
-![Searching](../images/lost-1605501_640.jpg)
+![Search Party](../images/lost-1605501_640.jpg)
 
 ### Learning Objectives
 

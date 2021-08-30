@@ -13,7 +13,7 @@ toc:
 
 ::: notes
 
-![Firefox](../images/Firefox.jpg)
+![Make Friends With Your Browser](../images/Firefox.jpg)
 
 :::
 
