@@ -87,7 +87,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
   * Which tools allow the user to navigate the page?  
   * Which tools relate to searching for a website? 
 * Open and close new tabs. 
-  * Why would you keep several tabs open.
+  * Why would you keep several tabs open?
 
 ::: notes
 
@@ -126,10 +126,17 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 * URL (Uniform Resource Locator) or web address. 
 * Website is a collection of web pages. 
 * What do you see on the web page?
-* Have you ever been on a webpage, have clicked links to other pages and then could not get back to where you wanted to be?  
+* Have you ever got lost on the web?  
 * Identify the navigation tools at the top of the page
 
-### Treasure hunt : To Do
+::: notes
+
+Have you ever been on a webpage, have clicked links to other pages and then could not get back to where you wanted to be?  
+* Identify the navigation tools at the top of the page
+
+:::
+
+### Treasure Hunt : To Do
 
 * Close your web browser.
 * Goto ??? 
@@ -167,7 +174,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 
 :::
 
-* Facilitator asks learners: how does what you learned today change how you think about web searches, and search results?
+How does what you learned today change how you think about web searches, and search results?
 
 ::: notes
 
