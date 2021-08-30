@@ -154,7 +154,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 
 ### What could make this task easier? 
 
-* Is there anything we could do in ADVANCE to make finding things faster? 
+Is there anything we could do in ADVANCE to make finding things faster? 
 
 ### Create an Index
 
@@ -177,7 +177,7 @@ Find a way to order the items in the collection to speed searching
 
 ### Revise the Algorithm 
 
-* Return to the algorithm; how does having the collection indexed change the steps? 
+Return to the algorithm; how does having the collection indexed change the steps? 
 
 ::: notes
 
@@ -195,7 +195,7 @@ Find a way to order the items in the collection to speed searching
 
 :::
 
-* What’s different about web pages and buttons/beads? 
+What’s different between our collections and web pages? 
 
 ::: notes 
 
