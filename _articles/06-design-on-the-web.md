@@ -1,6 +1,6 @@
 ---
 title: Design on the Web
-status: todo
+status: done
 layout: page
 following: _articles/07-tagging-101.md
 toc:
@@ -14,7 +14,7 @@ toc:
 
 ---
 
-![web design](../images/ux-788002_640.jpg)
+![Design on the Web](../images/ux-788002_640.jpg)
 
 ### Learning Objectives
 * Explain how visual design works on the web
@@ -55,9 +55,14 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 
 ### Introduction
 
+* The web is designed
+* What does it mean to design something?
+* How might 2 Buildings look or feel different? 
+  * What different actions does the architect want your buildings users to do?
+
 ::: notes
 [10 mins]
-:::
+
 
 * Facilitator introduces the idea that the web is a designed space. Everything you experience on the web is a result of a human decision, and a human intention--
     * A button or search bar in a certain spot
@@ -71,9 +76,30 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
     * Have you been in spaces like these? How might these environments look or feel different? 
     * What are the different feelings you want your building’s users to have?
     * What are different actions you want your buildings users to do?
+
+:::
+
+### Designers
+
 * Designers make choices to create an outcome-- in action or feeling for the user. All designers have plans and intentions.
 * As a user, you respond to design with feelings and actions (or not). 
+
+::: notes
+
 * Facilitator connects the discussion about physical spaces with the web: like a physical space, most websites are designed with an intention-- there’s something the designer wants users to do.
+
+:::
+
+### Designers Intentions
+
+* What sites do you use most often? 
+* Think of a website : 
+  * What is the goal of the site? What does the creator of the site intend for you to do?
+  * What are you doing there? What do you want to do?
+  * Is your aim different from what the site designer wants? If so, how?
+  
+::: notes
+
 * Discuss with learners, or do a think/pair/share activity about the following questions: 
     * What sites do you use most often? Each learner thinks of a site (Youtube, Facebook, Google, Amazon, Library site etc. etc) 
     * What is the goal of the site? What does the creator of the site intend for you to do? (Could be: buy things, look at ads, etc) 
@@ -83,14 +109,20 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
     * Have you had the experience of visiting a site and not being able to do or find the thing you came there for? 
 * Facilitator explains that the better the design of the site, the more likely you’ll do what the designer intends.
 
+:::
+
 ### Visual Design Elements 
 
 ::: notes
 [5 mins]
 :::
 
-* For many web users (with exception of visually impaired users, those using screen readers) websites have a strong visual component. Ask users: what are some elements of visual design?
-   
+For many web users (with exception of visually impaired users, those using screen readers) websites have a strong visual component. 
+
+What are some elements of visual design?
+
+::: notes
+
 > Tip! Here, you can use an example to get learners started, or brainstorm a list together first. Some elements might include:
 > 
 > * Color 
@@ -106,10 +138,15 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 * For each example, what do you see? What do you see first? What visual design elements are there? What stands out?
 * Two examples to compare and contrast:
 
+:::
+
+### What do you see?
+
 ![google search page](../images/google.png)
 
 ![amazon home page](../images/amazon.png)
 
+::: notes
 
 * Let learners look and discuss. Here are some of the the things that they or the facilitator might mention:
     * In the Google example: 
@@ -125,11 +162,15 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
         * The repeating circles give users the sense that they can choose among many groupings of products to buy.
         * The little product images up top are playful and fun, they’re evenly sized, you get the sense that there’s lots of them.
 
+:::
+
 ### Interactive Design Elements 
+
+What elements make a website interactive?
 
 ::: notes
 [5 mins]
-:::
+
 
 * Ask users: what elements make a website interactive?
 * Examples might include: 
@@ -137,20 +178,30 @@ Links, forms, search bars, “like” buttons, buy now buttons, comment boxes, s
 * Look at some examples with learners, and discuss what they see. Ask learners: how do visual design elements (like size, color, shape, placement) work with interaction elements?
 * Learners might notice that designers use color, size and placement to draw attention to buttons they want users to push, or a search bar, etc
 
+:::
+
 ![youtube page with ads](../images/youtube-ads.png)
 
 ![youtube page with playlist](../images/youtube-playlist.png)
+
+::: notes
 
 > Tip! If you are browsing live, you can try switching into responsive design mode (Tools > Web Developer > Responsive Design Mode) which allows you to see how the site will appear on different devices. 
 
 * Which elements of the site disappear when screen space is smaller, and which are still present? 
 * Seeing a site in this mode can help learners understand what aspects of the site the designer thinks is most important. 
 
+:::
+
 ### User Goals, Site Goals
+
+Lets pick a website 
+
+* What are goals users might have related to the site?
+* What are goals the site/company/org might have?
 
 ::: notes
 [5 minutes]
-:::
 
 * Let’s consider the goals that a web site (or the company/organization the site represents) have for interactions on their site, vs. goals of the user. Select an actual site as an example. 
 > Tip! Pick a few common sites, like Amazon.com, or Youtube.com, or any sites frequently used in your audience’s community. You can assign the sites, or let learners select. 
@@ -165,11 +216,17 @@ Links, forms, search bars, “like” buttons, buy now buttons, comment boxes, s
 * What happens when user and site goals are in conflict?
 * Explain to learners that by documenting their experience with sites, they can see how the design of the site works to meet sites’ goals and user’s goals… or not!
 
+:::
+
 ### Investigations and Journeys 
+
+Each learner should take about 5-7 minutes browsing a site as a user, and then  5-7 minutes documenting their partner’s experience as the listener/note taker.
+
+* One person in the pair is the user trying to do a task, navigating around the site, and talking out loud/telling the story of  what they are doing 
+* The other member of the pair is listening to/documenting the user journey. The listener should notice and/or take notes about the user’s experience. 
 
 ::: notes
 [15 minutes]
-:::
 
 * In this activity, learners will pair up and work together to document their own user journeys with a specific site. The aim is to notice how they’re interacting with the site’s design. Ideally each pair of learners should have a computer to work on. 
 * Facilitator splits group into pairs. Facilitator can select sites for learners to work with, or users can select their own sites. 
@@ -191,21 +248,29 @@ Links, forms, search bars, “like” buttons, buy now buttons, comment boxes, s
 
 > Tip! Offline version of above activity: Facilitators could print out a web page for learners to mark up. Both an internal page and the site's home page could be provided (in order to investigate whether the internal page effectively helps a user navigate the rest of the site).  As a follow-on, learners could use a blank sheet of paper to create a prototype of a web page that effectively addresses any issues they see in the handouts provided.
 
+:::
+
 ### Reflection and Review
 
 ::: notes
 [5 mins]
-:::
 
 * Facilitator leads a short discussion/reflection session about user journeys. 
 * Facilitator explains that user journeys are a tool that designers use when they test out sites and applications-- they might get users to try using the site and document what they do at each step of the process, to help refine the design.
-* What did learners discover from the user journey exercise? 
+
+:::
+
+* What did you discover from the user journey exercise? 
 * What did you notice during the activity? What was new, unexpected?
 * Did you notice visual design or interaction design elements playing a role in your behavior? 
+
+::: notes
+
 * Did you notice any tension between the things you wanted to do or get from your experience on the site, and what the site design was suggesting you do? 
 * How did this make you feel? 
 * Do you think you will notice or do anything differently when you’re browsing in the future? 
 
+:::
 
 ::: notes
 
@@ -223,6 +288,6 @@ Links, forms, search bars, “like” buttons, buy now buttons, comment boxes, s
 :::
 
 
-### Mozilla
+### mozilla
 
 Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at [mozilla.org](https://mozilla.org)
