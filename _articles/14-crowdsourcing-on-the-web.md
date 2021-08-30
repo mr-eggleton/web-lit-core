@@ -9,9 +9,10 @@ toc:
 - "Reflection and Wrap Up"
 - "Learning Experience Reflection"
 ---
-![](../images/people-2608316_640.jpg)
+![Crowdsourcing on the Web](../images/people-2608316_640.jpg)
 
 ### Learning Objectives
+
 * Explain the term “crowdsourcing” and how it contributes to online information
 * Collaborate online to contribute information
 
@@ -189,6 +190,6 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 :::
 
 
-### Mozilla
+### mozilla
 
 Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at [mozilla.org](https://mozilla.org)

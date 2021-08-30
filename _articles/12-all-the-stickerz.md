@@ -12,9 +12,10 @@ toc:
 - "Learning Experience Reflection"
 ---
 
-![stickers](../images/luggage-1149289_640.jpg)
+![All the Stickerz](../images/luggage-1149289_640.jpg)
 
 ### Learning Objectives
+
 * Define the term ‘pixel.’ 
 * Explain how bitmaps determine screen resolution.
 * Create pixel images online and offline.
@@ -56,15 +57,20 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 
 :::
 
+
+
 ### Introduction 
 
-::: notes
 
+::: notes
 [1 min]
+
+
+* Explain:
 
 :::
 
-* Explain: We’re going to talk about how computers create and store images using lots of tiny bits of color, and how we use those images to communicate online. And we’re going to create some very simple images of our own, both in analog and digital form. 
+  * We’re going to talk about how computers create and store images using lots of tiny bits of color, and how we use those images to communicate online. And we’re going to create some very simple images of our own, both in analog and digital form. 
 
 ### Pixels 
 
@@ -215,6 +221,6 @@ Transparent pixels are handy for a sticker, because there’s on background to t
 :::
 
 
-### Mozilla
+### mozilla
 
 Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at [mozilla.org](https://mozilla.org)

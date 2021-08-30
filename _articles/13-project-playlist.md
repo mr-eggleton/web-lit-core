@@ -12,7 +12,7 @@ toc:
 - "Learning Experience Reflection"
 ---
 
-![lists](../images/syndicate-1207270_640.jpg)
+![Project Playlist](../images/syndicate-1207270_640.jpg)
 
 ### Learning Objectives
 
@@ -56,7 +56,18 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 :::
 
 ### Sharing, Curation, and the Web
-#### Introduction/Discussion [10 mins]
+#### Introduction/Discussion 
+
+* What’s the last thing you found on the web that you were really excited about? 
+* What made you laugh, or think differently, what inspired you?
+* Where did you find these things? 
+* What sites did you use? 
+* What’s the last thing you shared with others online? Where did you find it? 
+* What’s the last thing you shared offline? (i.e. cut out an article, shared a comic strip or recipe) Where did you find it?
+
+::: notes
+
+[10 mins]
 
 * Start with offline activity and discussion
 * Ask learners: What’s the last thing you found on the web that you were really excited about? What made you laugh, or think differently, what inspired you?
@@ -74,22 +85,44 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 * Sometimes editors gather content and add in-depth commentary or review that reveals a new idea or perspective (on a blog like Brain Pickings for example) sometimes they just share something without any comment or very brief comments (on sites like Pinterest)
 * Whether you know it or not, if you use sites like Instagram, Twitter, or facebook, you are curating content! You may be using your own content, or it could be content (like videos, memes, gifs, articles) that you found somewhere else on the web. 
 
-#### * Ownership, Copyright, and Sharing on the Web
+:::
+
+### Ownership, Copyright, and Sharing on the Web
+
+
+* Whenever we share something on the web, we are “publishing” that content
+* On social media sites, we might be able to use settings to limit who sees this content (for example, groups of “friends” only)
+* If we don’t have restrictions on sharing, or if we’re publishing to a web page that everyone has access to,  anyone can see our content.
+
+::: notes
 
 * Facilitator explains that whenever we share something on the web, we are “publishing” that content-- releasing it out into the world. 
 * On social media sites, we might be able to use settings to limit who sees this content (for example, groups of “friends” only)
 * If we don’t have restrictions on sharing, or if we’re publishing to a web page that everyone has access to,  anyone can see our content.
 
 > Tip! Understanding what can happen to your own info, photos, etc when it's on the web.
-
+>
 * What is default permissions on your materials?
-* What do you agree to when you share on some sites? 
-* Ask learners: 
+* What do you agree to when you share on some sites?
+
+### Sharing on the web
+
+::: notes
+
+* Ask learners:
+
+:::
+
     * What are the advantages of this linked nature of the web? What do you like about it? 
     * What don’t you like about it? What questions do you have about it? 
     * What are positive ways that material you share on the web could be used by others? What are some negative ways?
+
+:: notes
+
 * Explain: we’re going to do a curation activity today, where we select a set of songs to create our own playlists.  We’ll  use HTML to add these to a page on the web (either their own homepage, or using Thimble). 
 * We’ll use the music sharing site Soundcloud. 
+
+:::
 
 ### Planning Your Playlist
 #### Discussion/Reflection 
@@ -202,6 +235,6 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 
 
 
-### Mozilla
+### mozilla
 
 Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at [mozilla.org](https://mozilla.org)
