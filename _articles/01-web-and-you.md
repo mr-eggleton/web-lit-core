@@ -50,7 +50,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 Introduce yourself :
 
 * Name
-* favourite food
+* Favourite food
 
 ::: notes
 
@@ -124,8 +124,11 @@ The facilitator asks the group to share kinds of things they do “online.”
 
 :::
 
-* What’s the most important/meaningful/memorable experience you’ve had online?
-    
+* How do you use the web? 
+* What kinds of things do you like do online?
+
+1 minutes to think, 3 minutes each to tell a story (Teacher to go first). 
+
 ::: notes
 
 * In this exercise, the facilitator splits learners into groups of 3 to 4 to tell and listen to stories. Explain that each learner will have 3-4 minutes to tell their own story of their web experience and what it means to them while other group members listen.  
