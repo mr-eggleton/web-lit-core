@@ -67,6 +67,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 [5-10 mins]
 
 * If group members are new to each other, the facilitator asks each member of the group to introduce themselves and answer an icebreaker question (such as favorite food, favorite game, what muppet or cartoon character you most resemble). 
+
 > Tip! The icebreaker question helps learners get to know others in the group and feel more comfortable during the discussion; it can-- but does not have to be-- web literacy related. 
 > Tip! The facilitator should model a short intro, so learners know what this looks like, and especially, how much time they have for their introduction. 
 
@@ -106,15 +107,20 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 
 ### Brainstorm Map Elements 
 
-Write down different components of the web, each on one sticky note
+Write the different components of the web on your white boards.
+We will ask each group to write each different word on a post-it and add it below.
 
 ::: notes
+
+Write down different components of the web, each on one sticky note
+
 
 [5 mins]
 
 * Facilitator explains that learners can think of the internet as a system, a collection of parts that create a functional whole. Learners can work together to make a map of this system!
 * The facilitator hands out sticky notes to the group, or if the group is small enough, they can brainstorm together. 
 * Learners write down different components of the system, each on one sticky note
+
 > Tip! If learners are having trouble beginning, they can ask themselves:  
 when they are “online” what kind of technology do you use-- what’s immediately part of your connection in your environment? (ie, your computer aka client, smartphone, modem, router) 
 
@@ -158,6 +164,7 @@ when they are “online” what kind of technology do you use-- what’s immedia
 * By placing sticky notes on a board, the group works together to create a diagram of the internet. 
 To help them do so, use the following prompts.
 
+> Tip! You can put the user at the left and servers on the right and the web at the top and wires at the bottom  
 > Tip! You can also use tactile 3-D materials like pipe cleaners, play-doh, string, cardboard or construction paper to create a model 
 
 * How are the different elements related? For example, many client computers connect to a single server.
@@ -179,7 +186,6 @@ To help them do so, use the following prompts.
 * We use a web browser, like Firefox, to access pages on the Web. 
 * Anytime you ask the Internet to do something- entering a web address into a browser, watching a video on YouTube, or check an email on your smartphone-- your request "hops" through several network devices, like routers and switches and servers, on its way from your device to the website’s server.
 
-
 :::
 
 [introductory video](https://www.youtube.com/watch?v=ewrBalT_eBM) 
@@ -188,10 +194,23 @@ To help them do so, use the following prompts.
 ::: notes
 
 * Show this [introductory video](https://www.youtube.com/watch?v=ewrBalT_eBM) to give learners a little more context 
+
+:::
+
+### Compare the video and our diagram
+
+* How close were we? 
+* What did we leave out? 
+* What surprised us? 
+
+::: notes
+
 * After watching the video, take a few minutes and ask participants to compare and contrast what they learned from watching the video compared to what they hypothesized together beforehand.  How close were we? What did we leave out? What surprised us? 
 * Facilitator explains to the group that in order to help understand this path, they are going to act out a human version of information moving through the internet, in an obstacle course.
 
 :::
+
+### Perform Web Requests 
 
 * The information will travel from a 
     * local (client) computer to
@@ -221,10 +240,14 @@ To help them do so, use the following prompts.
 * Ask the example learner to walk back to you, making sure to pause at each hop on the way back.
 * Now, let’s increase the complexity of the network-- after all, we have millions and millions of servers and clients out there, not just a few!  Let’s assign 2 or 3 (or more students) to act as “hop 3” -- the server. And let’s get a few more users making requests from client computers, and more students assigned to be packets.
 * Assign each server a role-- for example, a server could be a YourBank.com, or Amazon.com, or Tickets.com or the local library’s online catalog
+
 > Tip! You can brainstorm these by asking learners which sites they use, and the kinds of things they request from those sites. 
+
 * Write the server names on cards and ask the servers to hold them.
 * Have learners write requests, such as “list of cat toys for sale on Amazon”, or “Beyonce tickets on Tickets.com” on cards-- they will hand these to the “packets”
+
 > Tip: Ask participants if they want to create an identifier on the their request to make sure the request gets back to the right computer.
+
 * Now it's time for everyone to try the obstacle course! Explain:
     * Have the computer users/client computers hand their requests to the "packets" 
     * Packets must stop at each "hop" before moving on to the next one.
@@ -232,14 +255,18 @@ To help them do so, use the following prompts.
 * At the ISP hop, the learner acting as an ISP will need to direct the packets to the correct servers; on the way back s/he will need to direct the packet to the correct client. 
 * The servers have a short time to mark or change the packet’s card with the requested info before sending the packet back to the client
 * Ask the packets to form a single-file line and move through the obstacle course as quick as they can! You can have someone time how long it takes everyone to get through the course to see who makes it the fastest.
+
 > Tip: to make the obstacle course more interesting, you might place "government spies" between hops. This resource from the EFF explains how third parties might intercept data between hops. Talk with your learners about what data is protected, what's vulnerable, and to whom.
+
 > Tip! if your group is large enough, flood the ISP with requests for a certain server
 > Tip! During the activity, you may ask learners the following questions:
+>
 > * What happens at each “hop”?
 > * Do you think a packet in real life moves faster through the Internet than you did?
 * Note:  If you don’t have the physical space for this activity, learners can create their understanding of how the parts of the web interact by using objects such as play-doh, straws, strings, or other objects. 
 
 ::: 
+
 
 ### Optional: IP Addresses 
 
