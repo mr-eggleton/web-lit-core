@@ -168,7 +168,14 @@ The facilitator asks the group to share kinds of things they do “online.”
 
 ### Reflection and Review : Word Map 
 
+Write the key words you heard in the stories on your white boards.
+We will ask each group to write each different word on a post-it and add it below.
+
+::: notes
+
 On the post-it notes write key words you heard in the stories (one word per sticky note).
+
+:::
 
 | VERBS | ADJECTIVES | NOUNS |
 --- | --- | ---
