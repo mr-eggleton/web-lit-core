@@ -127,7 +127,7 @@ The facilitator asks the group to share kinds of things they do “online.”
 * How do you use the web? 
 * What kinds of things do you like do online?
 
-1 minutes to think, 3 minutes each to tell a story (Teacher to go first).
+1 minutes to think, 3 minutes each to tell a story (Teacher to go first). 
 
 ::: notes
 
