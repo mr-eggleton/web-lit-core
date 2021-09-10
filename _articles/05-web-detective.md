@@ -120,7 +120,7 @@ sources, authors-- backgrounds, capabilities, freshness/date, familiarity of sit
 ::: notes
 [20 minutes]
 
-* Split learners into groups of 2 or 3. Explain that each group’s challenge is to examine the following seven sources for evidence that the Kraken, a 100- to 120-foot tentacled sea creature that attacks and sink ships, is real.
+* Split learners into groups of 2 or 3. Explain that each group’s challenge is to examine the following sources for evidence that the Kraken, a 100- to 120-foot tentacled sea creature that attacks and sink ships, is real.
 
 :::
 

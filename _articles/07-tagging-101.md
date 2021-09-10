@@ -63,6 +63,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 
 
 ::: notes
+
 [3 min]
 
 * Review core concepts, frame and connect this topic to a big idea. Explain:
