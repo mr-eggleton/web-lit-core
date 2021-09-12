@@ -144,6 +144,8 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 * Save your story in the folder with .txt as the extension-- Give it a title with no spaces or punctuation other than dashes or underscores, like “about-zm.txt” This is the text version of your story, the raw content.
 * Also, save your story in the folder with .html as the extension, instead of .txt-- this will be your web version. The .html tells the browser to look for html code in the file. Give it a title with no spaces or punctuation other than dashes or underscores, like “about-zm.html”
 
+Fast track : If you know html, mark up your story (in semantic html5) and then use the best css3 tricks you know to make it pretty
+
 ### Get Tagging! 
 
 ::: notes
