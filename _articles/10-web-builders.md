@@ -78,9 +78,23 @@ These tools pull together HTML and CSS (Cascading Style Sheets, used to add visu
 
 ### Activity: Data Collection 
 
+* On the pet worksheet, you can draw a super simple picture-- stick figures are totally fine! 
+  
+#### Worksheet 1: Pet Listing
+
+|
+|----------|---------------|
+| Pet Name | |
+| Picture |    |
+| Location | |
+| Type (cat, dog, etc)| |
+| Age| |
+| Image| |
+| Traits| |
+| Available to Adopt (yes/no)| |
+
 ::: notes
 [5 mins]
-
 
 * Facilitator hands out mini-worksheets (print 2 per page/cut to save paper). Ask learners to fill them out. Explain: 
   * It’s OK to make up the information.
@@ -115,13 +129,23 @@ Available to Adopt (yes/no):
 * But what if we have information that changes all the time? Or if we have lots and lots of information? What are sites that change a lot? 
   * Examples might be: Weather and news sites, blogs, social media sites like Facebook, instagram, shopping sites. 
 * What kinds of sites or pages do we visit most often? What does this say about the internet? (i.e. lots of change, lots of new information) 
-* Let’s imagine we’re making a site with lots of pages-- a site that lists different pets, where people can browse the listings see if they want to adopt a pet.
-* Ask learners: What pages do we need on our site? (home page, maybe an about page, and maybe a page that talks about each pet) 
-* So let’s figure out the steps for doing our web site creation process, and write the steps or, in other words, an algorithm for it. Let’s say we have our “home” and “about” pages already. And we’ll use the pet data we just collected. What’s the algorithm we’d write for this process?
 
 :::
 
 ### Pet Page
+
+* Let’s imagine we’re making a site that lists different pets, where people can browse the listings see if they want to adopt a pet.
+* What pages do we need on our site?
+* Let’s say we have our “home” and “about” pages already. 
+* What steps do we do with the pet data we have to make a page for each pet?
+
+
+::: notes 
+
+* Let’s imagine we’re making a site with lots of pages-- a site that lists different pets, where people can browse the listings see if they want to adopt a pet.
+* Ask learners: What pages do we need on our site? (home page, maybe an about page, and maybe a page that talks about each pet) 
+* So let’s figure out the steps for doing our web site creation process, and write the steps or, in other words, an algorithm for it. Let’s say we have our “home” and “about” pages already. And we’ll use the pet data we just collected. What’s the algorithm we’d write for this process?
+
 
 > Tip! Sample algorithm for creating pet pages is here:
 > 
@@ -151,7 +175,6 @@ Available to Adopt (yes/no):
 > * Save, and check to see that it works in browser
 > * (Repeat x times)
 
-::: notes
 
 * Ask learners: 
     * How does this algorithm look? What do you notice about it? 
@@ -161,10 +184,12 @@ Available to Adopt (yes/no):
 
 :::
 
-* Explain that developers and designers have created tools-- some of which are free and focused on first-time users, like you-- that help streamline these processes, so no one has to mark up tens or hundreds or even thousands of similar pages. 
-* In a web builder, the computer does the hard part! Anytime we have a repetitive process, it’s GREAT work for a software program-- computers do tasks like this much better than humans, with no complaining.
+### Marking up with code
 
-::: Web Builders
+* Developers and designers have created tools that help streamline these processes, so no one has to mark up tens or hundreds or even thousands of similar pages. 
+* In a web builder, the computer does the hard part! Anytime we have a repetitive process, it’s GREAT work for a software program -- computers do tasks like this much better than humans, with no complaining.
+
+### Web Builders
 
 * These web builder tools, in their most basic form, combine four elements. We’ll talk about how they work together. 
     * Content stored in a database
@@ -229,10 +254,6 @@ Available to Adopt (yes/no):
 
 * This is what happens behind the scenes in any of the content management systems/ web builder platforms, like Wordpress or SquareSpace or Wix. 
 * As a user, you’d mostly be typing content into an interface, and selecting a template, and pressing a “publish” button. The code on the server side and in the browser does the rest! And now YOU know how that works!
-
-:::
-
-::: notes
 
 ### Learning Experience Reflection 
 
