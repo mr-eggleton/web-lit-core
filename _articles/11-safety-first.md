@@ -103,14 +103,13 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 
 #### Offline Activity: Data Trails Timeline 
 
-
-* We’re going to do a quick recap of their day so far today. 
-* Think through all the things you did, from waking up to making it here to this session. 
-
-
+* List all the things you did yesterday on your whiteboard 
+  * What did you do?
+  * When?
+  * What device / website did I use?
+  
 ::: notes
 [20 minutes]
-
 
 * Share with your learners that, in our next activity, we’re going to do a quick recap of their day so far today. 
 * Ask learners to think through all the things they did, from waking up to making it here to this session. 
@@ -120,8 +119,6 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 * A sample worksheet for this activity: 
     * My Day (So Far)
     * Use this worksheet to make a list of what your activities so far today. For each item on your, answer the following questions:
-
-![worksheet](../images/worksheet.png)
  
 * After five minutes of silent reflection, ask your learners to share some of what they did today. Remind your learners that it’s okay to keep personal details private -- this worksheet is for their eyes only! 
 * Ask your learners to take a look back at their sheets, keeping the following questions in mind.
