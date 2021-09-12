@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Web Apps and Build with Glitch</title>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      word-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Web Apps and Build with Glitch</h1>
+</header>
+<nav id="TOC" role="doc-toc">
+
+</nav>
+<figure>
+<img src="../images/ipad-820272_640.jpg" alt="Web Apps and Build with Glitch" /><figcaption aria-hidden="true">Web Apps and Build with Glitch</figcaption>
+</figure>
+<h3 id="learning-objectives">Learning Objectives</h3>
+<ul>
+<li>Explain the difference between different web applications.</li>
+<li>Create a web page using Glitch web application.</li>
+</ul>
+<div class="notes">
+<h4 id="description">Description</h4>
+<p>In this online activity, learners consider how they’d like to represent themselves on the web. They get a crash course in the Glitch web development tool and use what they’ve learned in the previous two activities on HTML and tagging to remix a template into their own personal homepage on the web. This lesson revisits the concepts of web hosting, domain names, and urls.</p>
+<h4 id="time-required">Time Required</h4>
+<p>45 minutes to 1 hour depending on group size</p>
+<h4 id="audience">Audience</h4>
+<p>Can be tailored for audiences from 13 up; with varying levels of experience with the web.</p>
+<h4 id="materials">Materials</h4>
+<ul>
+<li>Laptop with internet connection and ability to project on a screen</li>
+</ul>
+<h4 id="web-literacy-skills">Web Literacy Skills</h4>
+<ul>
+<li>Code</li>
+<li>Compose</li>
+<li>Remix</li>
+<li>Revise</li>
+<li>Design</li>
+<li>Share</li>
+<li>Open Practice</li>
+</ul>
+<h4 id="st-century-skills">21st Century Skills</h4>
+<ul>
+<li>Communication</li>
+<li>Collaboration</li>
+<li>Creativity</li>
+</ul>
+<h4 id="earning-digital-badges">Earning Digital Badges</h4>
+<p>Digital badges capture the evidence and are the demonstration knowledge and achievement. Each Core Activity encompasses multiple web literacy skills. Completion of all Core Activities will enable anyone to earn all web literacy plus 21C skills badges. Thus, we encourage you to complete all the Core Activities, and earn badges to capture what you’ve learned. Digitalme is offering web literacy badges through the <a href="https://www.openbadgeacademy.com/mozilladirectory">Open Badges Academy</a>.</p>
+</div>
+<h3 id="introduction">Introduction</h3>
+<ul>
+<li>Static web sites
+<ul>
+<li>Don’t change</li>
+<li>You have just built one</li>
+<li>Example <a href="https://raftersrestaurant.co.uk/">https://raftersrestaurant.co.uk/</a></li>
+</ul></li>
+<li>Dynamic web sites
+<ul>
+<li>These are websites you use to make something happen.</li>
+<li>Users input, create or share something, and change what content is displayed.</li>
+<li>What are examples of dynamic websites?</li>
+</ul></li>
+</ul>
+<div class="notes">
+<p>[5-7 min]</p>
+<ul>
+<li>Frame the activity by explaining that some websites are quite different than others. Some are simple; others are more complex. We can divide websites we use into two broad categories:</li>
+</ul>
+<blockquote>
+<p>Tip! It is recommended to first have users complete the “Building Basic Pages” activity.</p>
+</blockquote>
+<ul>
+<li>1st category: websites where you can access static information.</li>
+<li>These websites might not change much over time.</li>
+<li>As a user, you can’t do much to change the content site or how it works for you.</li>
+<li>Lots of the earliest web pages were like this.</li>
+<li>Ask learners, what are examples of static pages? Think of sites that don’t have new content often, or ever. Or sites with very few pages.</li>
+</ul>
+<blockquote>
+<p>Tip! Examples might be DMV site, small restaurant, etc. These websites are designed primarily to convey information.</p>
+</blockquote>
+<ul>
+<li>2nd category: websites where, as the user, you can do something like create an outcome or change by using the page.</li>
+<li>These are websites you use to make something happen.</li>
+<li>You might create or share something, or do something to change what content is displayed, or provide information in order to complete a task.</li>
+<li>Ask learners, What are examples of websites like these? What’s the last thing you did on the web?</li>
+</ul>
+<blockquote>
+<p>Tip! Examples might be a public library’s website where you can search for and reserve books and other resources. Or any web mail client like Gmail, Yahoo mail, hotmail, or instant messaging services. Shopping sites, web-based games, social media sites, etc. Google Search is a web application and so is Facebook.</p>
+</blockquote>
+</div>
+<h3 id="dynamic-websites">Dynamic Websites</h3>
+<ul>
+<li>These web applications are powered by programs (code) that let the client computer (the one you use to browse with) to work with the server (the computer where the website lives) to make something happen.</li>
+<li>Search bars that allow users to access a set of results.</li>
+<li>Web forms that allow users to submit information, for instance their name and email address.</li>
+<li>Ask learners if they have used search bars or web forms– if so, they have used web apps!</li>
+<li>Explain that web apps can be much more complex, too.
+<ul>
+<li>Gmail, Netflix, Instargram, Facebook</li>
+</ul></li>
+</ul>
+<div class="notes">
+<ul>
+<li>Websites (or parts of websites) that allow users to do something on the web are called web applications.</li>
+<li>These web applications are powered by programs (code) that let the client computer (the one you use to browse with) to work with the server (the computer where the website lives) to make something happen.</li>
+<li>Lots of small, simple elements learners have probably seen before can be thought of as web applications.</li>
+<li>Web forms that allow users to submit information, for instance their name and email address.</li>
+<li>Search bars that allow users to access a set results based on a question or term that you type into a search bar.</li>
+<li>Ask learners if they have used search bars or web forms– if so, they have used web apps!</li>
+<li>Explain that web apps can be much more complex, too. Glitch is a web app for creating web pages. Glitch is a coding tool for writing HTML and other web languages; it also publishes learners’ pages so they’re actually online, on the web.</li>
+</ul>
+<blockquote>
+<p>Tip! If learners have already done the “Building Basic Pages” activity, (which is a recommended) you can remind them that they don’t need to be online OR use a web app like Glitch to create web pages. They can use a simple text editor to write HTML and save their pages, and use any browser to view pages. These pages are offline until uploaded to a web server.</p>
+</blockquote>
+</div>
+<h3 id="meet-glitch-take-a-tour">Meet Glitch, Take A Tour</h3>
+<ul>
+<li>Glitch is a web app for creating web pages. Glitch is a coding tool for writing HTML and other web languages</li>
+<li><img src="../images/glitch-homepage.png" title="fig:" alt="Glitch" /></li>
+<li>Go to the <a href="https://glitch.com">Glitch Home page</a></li>
+<li>Glitch allows you to remix loads of templates we will start with a “Blank Website”</li>
+<li>Click “Get Started” then “Blank Website” or go to <a href="https://glitch.com/edit/#!/remix/glitch-blank-website">https://glitch.com/edit/#!/remix/glitch-blank-website</a></li>
+</ul>
+<div class="notes">
+<p>[5-7 min]</p>
+<ul>
+<li>For this section, the facilitator should project their screen so all learners can see the Glitch tour. Ideally, learners will follow along on their own computers. Learners may find it helpful to work in pairs. &gt; Tip! It’s best if users sign in/create an account so they can publish pages permenately. However, if users don’t feel comfortable creating an account, they can play around with writing or editing HTML in the editor, and seeing how the results change in the preview window.</li>
+<li>Go to the <a href="https://glitch.com">Glitch Home page</a></li>
+<li>Glitch allows you to remix loads of templates we will start with a “Blank Website”</li>
+<li>Click “Get Started” then “Blank Website” or go to <a href="https://glitch.com/edit/#!/remix/glitch-blank-website">https://glitch.com/edit/#!/remix/glitch-blank-website</a></li>
+</ul>
+</div>
+<h3 id="glitch-editor">Glitch Editor</h3>
+<figure>
+<img src="../images/glitch-editor.png" alt="glitch Editor" /><figcaption aria-hidden="true">glitch Editor</figcaption>
+</figure>
+<p>Click on “index.html”, change some of the text. What happens?</p>
+<div class="notes">
+<ul>
+<li>Ask learners, what do you see– how does this page look different from the Glitch home page? How is the page divided up? What is each section or window for? What’s the relationship between the sections? Let learners talk and come up with answers, but be sure they understand the following:
+<ul>
+<li>On the left, there’s a space where files are listed. Learners can switch between them by clicking on the names. If learners create new files, they’ll appear here.</li>
+<li>In the middle there’s space called EDITOR, where we can see the HTML code, and we can edit it there, too.</li>
+<li>On the right, there’s a space called “PREVIEW” – when we edit code, we see how it will look in a browser– and the changes will happen as we type!</li>
+</ul></li>
+</ul>
+<blockquote>
+<p>Tip! This is a cool feature, so give users some small tasks to do– for example, changing the size of the heading, or editing the word “amazing.”</p>
+</blockquote>
+<ul>
+<li>Note that changes or additions that don’t follow HTML rules won’t appear in preview.</li>
+</ul>
+</div>
+<h3 id="you-are-on-the-web">You are on the web</h3>
+<figure>
+<img src="../images/glitch-preview-popup.png" alt="Glitch Preview Popup" /><figcaption aria-hidden="true">Glitch Preview Popup</figcaption>
+</figure>
+<ul>
+<li>Click “Show” and “In a New Window”</li>
+<li>This shows your page, LIVE on the Web! Anyone, anywhere on the web can view their page at this address.</li>
+<li>Copy the url of your page and paste it into the Teams chat.</li>
+</ul>
+<div class="notes">
+<blockquote>
+<p>Tip! You may need to clarify for users that people visiting this address will see just the page itself, NOT the working Glitch view with the editor window and all the options. Test it out, and compare the published address vs. the address of the Glitch view.</p>
+</blockquote>
+</div>
+<h3 id="make-your-pages">Make your Pages</h3>
+<ul>
+<li>Copy-paste the body of your story into the editor in Glitch (inside the body tags, of course).</li>
+<li>Add a new section about your hometown in your txt document.</li>
+<li>Add that new section to your glitch</li>
+</ul>
+<div class="notes">
+<p>[15-20 mins]</p>
+<ul>
+<li>For this part of the activity, facilitators have several options for content for these pages.</li>
+<li>Learners who have done the “Building Basic Pages” activity should already have a story about themselves written up– they can add to this story, and then bring it into Glitch.</li>
+</ul>
+<blockquote>
+<p>Tip! If time is tight, they can skip adding new content, and just bring copy the existing story in.</p>
+</blockquote>
+<ul>
+<li>Ask learners to add to their life story– ask them brainstorm and write a new section about their hometown, a favorite relative, a positive memory, etc. Facilitator’s choice.</li>
+</ul>
+<blockquote>
+<p>Tip! Be sure they compose in their saved .txt file, and not directly in Glitch, and that they don’t tag and compose simultaneously! Coding and creating are two different ways of thinking– learners doing both at once may slow their creative flow by adding tags as they write, or they may get lost in the story and forget key tags.</p>
+</blockquote>
+<ul>
+<li>Ask learners to copy-paste their raw story content into the editor in Glitch (inside the body tags, of course). Then they can practice marking up this page again (and tagging the new parts) to get more familiar with tags and writing HTML.<br />
+</li>
+<li>If learners have not done “Building Basic Pages,” they can generate story content as follows: Have participants break into pairs and interview each other about their lives. As facilitator, keep track of time to ensure that each learner has equal time for their story.</li>
+<li>Interview: Ask each to take 5 minutes to tell their story, or if they don’t want to share personal stuff, they can make up fictional character and tell that character’s story. Have the listener take notes, or possibly record on a device. Prompt users to talk about what is most important to them (or their fictional character). Offer this list of questions to get started:
+<ul>
+<li>Name, age, other details</li>
+<li>Where were you born? Where did you grow up? What was that like?</li>
+<li>What are you doing now? How do you spend your time? What are your favorite things to do, favorite places, foods, music, etc</li>
+<li>Is there a favorite moment, proudest moment that stands out?</li>
+<li>Your plans and dreams for the future</li>
+</ul></li>
+</ul>
+<blockquote>
+<p>Tip! The interviewer can ask follow-up questions to get at more details, or a fuller story. He or she can ask open-ended “why” questions about motivations, about preferences, about future plans, to help draw out more insights, or he or she can ask questions to clarify ideas in the story.</p>
+</blockquote>
+<ul>
+<li>Review/Edit: Have each learner take the notes from their story and review them– consider adding details, think of what you left out</li>
+<li>Organize, and Type Up: Have learners type up their stories in a basic text editor, being sure to use “plain text mode” (not Rich Text mode). As they type up the story, they might consider organizing and structuring the story into a beginning, middle, and end. Maybe they can think of titles for the sections: “Early Days” “These Days” “What’s Next” Or they can find ways other ways to organize the content, if they talked more about interest sections– “My favorite songs” “My favorite places” etc. Creating these sections will help structure the biography for easy reading as a web page.</li>
+<li>Title Your Story. Come up with a snappy title for your story or content. Or go with something basic.</li>
+<li>Make a new folder on your computer and call it “xx-webpage” using your initials. You should save this file in two versions.</li>
+<li>Save your story in the folder with .txt as the extension– Give it a title with no spaces or punctuation other than dashes or underscores, like “about-zm.txt” This is the text version of your story, the raw content.</li>
+<li>Copy-paste this raw content into the Glitch editor window and start tagging.</li>
+<li>Learners who create their own personal pages in Glitch can return to them and add content, especially for the Project Playlist or All the Stickers activities in the “Participate” section.</li>
+</ul>
+</div>
+<h3 id="wrap-up-and-discussion">Wrap-up and Discussion</h3>
+<div class="notes">
+<p>[10 mins]</p>
+<ul>
+<li>Choose one of the topics below to wrap up the activity:</li>
+</ul>
+<h4 id="sharing-code-remixing-with-glitch">Sharing Code &amp; Remixing with Glitch</h4>
+<p><a href="https://glitch.com/~movieposters">https://glitch.com/~movieposters</a></p>
+<ul>
+<li>If learners worked with their own stories, introduce them to remixable projects, and let them explore and play for 5 or 10 minutes. If they remixed an existing project, have a discussion about that experience. Ask learners:
+<ul>
+<li>What’s it like to see other people’s code? What did you find that’s new, surprising? Do you see things you’d like to try?</li>
+<li>What can you learn from using thimble to explore and remix projects?</li>
+<li>How would you feel about someone remixing your project?</li>
+</ul></li>
+<li>Even if a page isn’t in Glitch, in lots of browsers you can peek at the source code… In FireFox, go to Tools &gt; Web Developer &gt; Page Source to see the code behind any page. If a page is a web app, the code is likely to be complex! If it’s a static page, it will be easier to read.</li>
+</ul>
+</div>
+<h4 id="pros-and-cons-of-glitch-vs-composing-offline">Pros and Cons of Glitch vs Composing Offline</h4>
+<div class="notes">
+<p>Revisit/explore the difference between composing and publishing with Glitch OR creating pages with a text editor/browser and saving to a personal computer. Facilitator asks learners the differences; some might be: * With Glitch you’re on the web right away! The page is saved to Mozilla’s server. And you can see your changes as you type. * With a text editor/browser, you’re working on your local machine, not on the web. You need to save your file and refresh the browser to see changes. * With editor/browser, you’d have to upload to a server to get your page online where others can access it. * You need a web connection to get to Glitch. * You don’t even have to be online to build sites with your browser and basic text editor. * Glitch is designed for learning code, not for publishing sites over the long term. * There are space limitations for how many files you can have on Glitch. And the web address… * How is the web address (URL) of your Glitch page different from the web address of your favorite blog or website…. If you had a business, would this work for a web address?</p>
+<blockquote>
+<p>Tip! Learners should understand that Glitch project addresses are generic; they don’t express the content of your project. They are hard to remember. To get the awesome web address they want for their page, learners would have to purchase a domain name (such as superpage.com or awesomepage.biz) and pay for web hosting– server space where their pages can be accessed online.</p>
+</blockquote>
+<ul>
+<li>Glitch is partly a learning tool– for testing and trying pages.</li>
+<li>The text editor/browser combo is an easy way to start, and can take you far in building pages and sites</li>
+<li>For more complex sites you might use an app designed specifically to build and host pages quickly– check out the “Web Builder” activity.</li>
+</ul>
+</div>
+<div class="notes">
+<h4 id="the-evolution-of-the-web">The Evolution of the Web</h4>
+<ul>
+<li>Explain: in the early days of the web, many pages were static. There was lots of information sharing, but not much interaction.</li>
+<li>Show an example of the early web using the Internet Archive’s wayback machine: https://archive.org/web/ and search for apple site link.</li>
+<li>Compare, for example, apple.com in 1996 with apple.com today (or find your own examples).</li>
+<li>What is the experience like on each site? What are the biggest changes?</li>
+<li>What do you think the web will look like in 20 years? What would you like to be able to do on the web of the future?</li>
+</ul>
+<blockquote>
+<p>Tip! Facilitator can emphasize that mobile “smart” devices weren’t around 20 years ago– what we can do on the web may change, but where and how we do it might change, too.</p>
+</blockquote>
+<h3 id="learning-experience-reflection">Learning Experience Reflection</h3>
+<p>[5 mins]</p>
+<ul>
+<li>What did you like about this activity?</li>
+<li>If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience?</li>
+</ul>
+<h3 id="feedback-on-core-curriculum">Feedback on Core Curriculum</h3>
+<ul>
+<li>Tell us <a href="https://github.com/mozilla/web-lit-core/issues/8">how and where you’re using the curriculum</a> and <a href="https://github.com/mozilla/web-lit-core/issues/9">what you’ve learned and what you might change</a>.</li>
+</ul>
+</div>
+<h3 id="mozilla">mozilla</h3>
+<p>Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good. Visit us at <a href="https://mozilla.org">mozilla.org</a></p>
+</body>
+</html>

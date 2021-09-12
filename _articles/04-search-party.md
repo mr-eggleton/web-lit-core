@@ -209,7 +209,7 @@ What’s different between our collections and web pages?
 
 ### How Google Searches Work 
 
-[![How Google Searches Work : Youtube](http://img.youtube.com/vi/BNHR6IQJGZs/0.jpg)](http://www.youtube.com/watch?v=BNHR6IQJGZs "How Google Searches Work : Youtube")
+[![How Google Searches Work : Youtube](https://img.youtube.com/vi/BNHR6IQJGZs/0.jpg)](https://www.youtube.com/watch?v=BNHR6IQJGZs "How Google Searches Work : Youtube")
 
 ::: notes 
 

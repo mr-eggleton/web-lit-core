@@ -161,7 +161,6 @@
 <h3 id="learning-objectives">Learning Objectives</h3>
 <ul>
 <li>Create a simple web page</li>
-<li>Transfer web page online</li>
 </ul>
 <div class="notes">
 <h4 id="description">Description</h4>
@@ -209,7 +208,7 @@
 <ul>
 <li>HTML files are just text and not very pretty to look at.</li>
 <li>The browser takes them and makes them readable and more visually interesting by layering in design and pulling in images and video.</li>
-<li>HTML file + Browser, like Firefox = WEB PAGE AMAZINGNESS FOR YOU (hopefully).</li>
+<li>HTML file + Browser, like Firefox / Edge = WEB PAGE AMAZINGNESS FOR YOU (hopefully).</li>
 </ul>
 <div class="notes">
 <blockquote>
@@ -230,7 +229,10 @@
 </blockquote>
 </div>
 <ul>
-<li>To get started, we need CONTENT– because the web is all about communication and sharing of information and ideas. Let’s generate some content together!</li>
+<li>To get started, we need CONTENT
+<ul>
+<li>The web is all about communication and sharing of information and ideas. Let’s generate some content together!</li>
+</ul></li>
 </ul>
 <h3 id="content-and-storytelling">Content and Storytelling</h3>
 <div class="notes">
@@ -240,7 +242,20 @@
 </blockquote>
 </div>
 <ul>
-<li>Write your Biography or “About” page. Have participants break into pairs and interview each other about their lives. As facilitator, keep track of time to ensure that each learner has equal time for their story.</li>
+<li>You will write your Biography or “About Me” article.</li>
+<li>In pairs, interview each other about your lives.
+<ul>
+<li>5 mins each</li>
+<li>If you don’t want to share personal stuff, make up a fictional character and tell that character’s story.</li>
+<li>The listener takes notes
+<ul>
+<li>What’s your name?</li>
+<li>Where were you born? Where did you grow up? What was that like?</li>
+<li>What are you doing now? How do you spend your time? What are your favorite things to do, favorite places, foods, music, etc</li>
+<li>Is there a favorite moment, proudest moment that stands out?</li>
+<li>What are your plans and dreams for the future?</li>
+</ul></li>
+</ul></li>
 </ul>
 <div class="notes">
 <ul>
@@ -257,37 +272,64 @@
 <p>Tip! The interviewer can ask follow-up questions to get at more details, or a fuller story. He or she can ask open-ended “why” questions about motivations, about preferences, about future plans, to help draw out more insights, or he or she can ask questions to clarify ideas in the story.</p>
 </blockquote>
 </div>
+<h3 id="reviewedit">Review/Edit</h3>
 <ul>
-<li>Review/Edit: Have each learner take the notes from their story and review them– consider adding details, think of what you left out.</li>
+<li>Open Visual Studio Code / Atom / Notepad</li>
+<li>Take the notes from your story and type them up
+<ul>
+<li>review them as you go</li>
+<li>consider adding details,</li>
+<li>think of what you left out.</li>
+</ul></li>
+<li>Consider organizing and structuring the story into a beginning, middle, and end.</li>
+<li>Maybe think of titles for the sections: “Early Days” “These Days” “What’s Next”. Or another way to organize the content</li>
+<li>Title Your Story! Come up with a snappy title for your story or content or go with something basic.</li>
+</ul>
+<div class="notes">
+<ul>
+<li>: Have each learner take the notes from their story and review them– consider adding details, think of what you left out.</li>
 <li>Organize, and Type Up: Have learners type up their stories in a basic text editor, being sure to use “plain text mode” (not Rich Text mode). As they type up the story, they might consider organizing and structuring the story into a beginning, middle, and end. Maybe they can think of titles for the sections: “Early Days” “These Days” “What’s Next” Or they can find ways other ways to organize the content, if they talked more about interest sections– “My favorite songs” “My favorite places” etc. Creating these sections will help structure the biography for easy reading as a web page.</li>
 <li>Title Your Story! Come up with a snappy title for your story or content or go with something basic.</li>
+</ul>
+</div>
+<h3 id="saving">Saving</h3>
+<ul>
 <li>Make a new folder on your computer and call it “xx-webpage” using your initials.</li>
 <li>Save your story in the folder with .txt as the extension– Give it a title with no spaces or punctuation other than dashes or underscores, like “about-zm.txt” This is the text version of your story, the raw content.</li>
 <li>Also, save your story in the folder with .html as the extension, instead of .txt– this will be your web version. The .html tells the browser to look for html code in the file. Give it a title with no spaces or punctuation other than dashes or underscores, like “about-zm.html”</li>
 </ul>
 <h3 id="get-tagging">Get Tagging!</h3>
 <div class="notes">
-<p>[10 mins ]</p>
+<p>[10 mins]</p>
 </div>
-<p>marking up their story</p>
-<p>::: notes</p>
+<h4 id="marking-up-their-story">marking up their story</h4>
+<div class="notes">
 <ul>
 <li>Explain to users that they’ll be marking up their story– the .html version– with HTML, to make it ready for display in the browser. Explain that since coding HTML and thinking of and writing content are two different ways of thinking, they should always have content written before they mark it up, rather than write and mark-up at the same time.</li>
 </ul>
 <blockquote>
 <p>Tip! A great way to help learners do this, if you have access to an instructor’s computer and projector, is to do the activity on your own content along with learners, and project the results so everyone can see what you’re doing.</p>
 </blockquote>
+</div>
+<ul>
+<li>Start the file <code>&lt;!DOCTYPE html&gt;</code></li>
+<li>Add an <code>&lt;html&gt;</code> and <code>&lt;/html&gt;</code> tags that wrap around the ENTIRE page – so everything inside can get tagged with markup language.</li>
+<li>After this, make a section with a set of tags called <code>&lt;head&gt; &lt;/head&gt;</code> at the top of the page, before all your written content.
+<ul>
+<li>Put <code>&lt;title&gt; Your Title&lt;/title&gt;</code> inside the head</li>
+</ul></li>
+<li>Add <code>&lt;body&gt;</code> tags around the entire text for the page.</li>
+<li>Use h1 for your page’s top headline, the on-screen title for your story (different from the title tag)</li>
+<li>Use h2 or h3 tags for section headings</li>
+<li>Use p tags for paragraphs</li>
+<li>Don’t forget your closing tags!</li>
+<li>Finally, when you’ve added all your tags, save the page!</li>
+</ul>
+<div class="notes">
 <ul>
 <li>Start the file with a doctype tag– this is one of the only tags that doesn’t have content inside, and no closing tag– it’s a lonely single tag, reminding the browser, again that we’re writing html&lt;!DOCTYPE html&gt;</li>
-<li>Add an
-<html>
-and
-</html>
-tags that wrap around the ENTIRE page– so everything inside can get tagged with markup language.</li>
-<li>After this, make a section with a set of tags called
-<head>
-</head>
-at the top of the page, before all your written content. We’ll put one bit of content in here for the browser, but we won’t see it appear on the main page itself. This is the page title, which:
+<li>Add an <code>&lt;html&gt;</code> and <code>&lt;/html&gt;</code> tags that wrap around the ENTIRE page– so everything inside can get tagged with markup language.</li>
+<li>After this, make a section with a set of tags called <code>&lt;head&gt; &lt;/head&gt;</code> at the top of the page, before all your written content. We’ll put one bit of content in here for the browser, but we won’t see it appear on the main page itself. This is the page title, which:
 <ul>
 <li>defines a title in the browser tab</li>
 <li>provides a title for the page when it is added to favorites</li>
@@ -309,10 +351,19 @@ at the top of the page, before all your written content. We’ll put one bit of 
 <li>Congratulate everyone on the pages they’ve made! They are now web designers! Remind folks that the pages are still on their local computers, and not actually on the web! But they are ready to go there.</li>
 <li>Have a brief discussion about uploading to servers, about web hosting, what it means, how it works, how much it costs, what hosting companies do.</li>
 </ul>
-<h3 id="go-online">Go Online!</h3>
-<div class="notes">
-<p>[15 mins]</p>
 </div>
+<h3 id="lets-have-a-look">Lets have a look</h3>
+<ul>
+<li>Now, open your favorite browser</li>
+<li>Go to File &gt; open file. Navigate to your folder, and click on the html file you just made.</li>
+<li>How does it look?</li>
+<li>Are you seeing your content formatted for the web?</li>
+<li>Do you see your title appearing in the tab at the top of the browser bar?</li>
+<li>If things don’t look right, what might have happened?</li>
+</ul>
+<div class="notes">
+<h3 id="go-online">Go Online!</h3>
+<p>[15 mins]</p>
 <ul>
 <li>If your institution has server space and resources available, show participants how to use a file transfer application (such as fetch) to transfer their pages to a folder on the server. Talk about UPLOADING vs DOWNLOADING</li>
 <li>Discuss how the URL will be constructed, ask users to figure out their own URLs – domain name, class folder name, personal folder name, page name.</li>
@@ -321,7 +372,6 @@ at the top of the page, before all your written content. We’ll put one bit of 
 <blockquote>
 <p>Tip! If time, have a brief discussion of web hosting, what it means, how it works, how much it costs, what hosting companies do.</p>
 </blockquote>
-<div class="notes">
 <h3 id="learning-experience-reflection">Learning Experience Reflection</h3>
 <p>[5 mins]</p>
 <ul>

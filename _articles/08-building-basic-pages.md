@@ -2,7 +2,7 @@
 title: Building Basic Pages
 status: todo
 layout: page
-following: _articles/09-web-apps-and-build-with-thimble.md
+following: _articles/09-web-apps-and-build-with-glitch.md
 toc:
 - "Introduction"
 - "Content and Storytelling"
@@ -14,8 +14,7 @@ toc:
 
 ### Learning Objectives
 * Create a simple web page
-* Transfer web page online
-
+  
 ::: notes 
 
 #### Description
@@ -64,7 +63,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 
 * HTML files are just text and not very pretty to look at.
 * The browser takes them and makes them readable and more visually interesting by layering in design and pulling in images and video.
-* HTML file + Browser, like Firefox  = WEB PAGE AMAZINGNESS FOR YOU (hopefully).
+* HTML file + Browser, like Firefox / Edge  = WEB PAGE AMAZINGNESS FOR YOU (hopefully).
 
 ::: notes
 
@@ -81,7 +80,8 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 
 :::
 
-* To get started, we need CONTENT-- because the web is all about communication and sharing of information and ideas. Let’s generate some content together!
+* To get started, we need CONTENT
+  * The web is all about communication and sharing of information and ideas. Let’s generate some content together!
 
 ### Content and Storytelling 
 
@@ -93,7 +93,18 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 
 :::
 
-* Write your Biography or “About” page. Have participants break into pairs and interview each other about their lives. As facilitator, keep track of time to ensure that each learner has equal time for their story. 
+* You will write your Biography or “About Me" article.
+* In pairs, interview each other about your lives.
+  * 5 mins each
+  * If you don’t want to share personal stuff, make up a fictional character and tell that character’s story. 
+  * The listener takes notes 
+    * What’s your name?
+    * Where were you born? Where did you grow up? What was that like? 
+    * What are you doing now? How do you spend your time? What are your favorite things to do, favorite places, foods, music, etc
+    * Is there a favorite moment,  proudest moment that stands out?
+    * What are your plans and dreams for the future?
+
+
 
 ::: notes
 
@@ -107,10 +118,28 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 > Tip! The interviewer can ask follow-up questions to get at more details, or a fuller story. He or she can ask  open-ended “why” questions about motivations, about preferences, about future plans, to help draw out more insights, or he or she can ask questions to clarify ideas in the story. 
 
 :::
- 
-* Review/Edit: Have each learner take the notes from their story and review them-- consider adding details, think of what you left out.
-* Organize, and Type Up: Have learners type up their stories in a basic text editor, being sure to use “plain text mode” (not Rich Text mode).  As they type up the story, they might consider organizing and structuring the story into a beginning, middle, and end. Maybe they can think of titles for the sections: “Early Days” “These Days” “What’s Next” Or they can find ways other ways to organize the content, if they talked more about interest  sections-- “My favorite songs” “My favorite places” etc. Creating these sections will help structure the biography for easy reading as a web page. 
+
+### Review/Edit
+
+* Open Visual Studio Code / Atom / Notepad
+* Take the notes from your story and type them up 
+  * review them as you go
+  * consider adding details, 
+  * think of what you left out.
+* Consider organizing and structuring the story into a beginning, middle, and end. 
+* Maybe think of titles for the sections: “Early Days” “These Days” “What’s Next”. Or another way to organize the content
 * Title Your Story! Come up with a snappy title for your story or content or go with something basic. 
+
+
+::: notes
+
+* : Have each learner take the notes from their story and review them-- consider adding details, think of what you left out.
+* Organize, and Type Up: Have learners type up their stories in a basic text editor, being sure to use “plain text mode” (not Rich Text mode).  As they type up the story, they might consider organizing and structuring the story into a beginning, middle, and end. Maybe they can think of titles for the sections: “Early Days” “These Days” “What’s Next” Or they can find ways other ways to organize the content, if they talked more about interest  sections-- “My favorite songs” “My favorite places” etc. Creating these sections will help structure the biography for easy reading as a web page. 
+* Title Your Story! Come up with a snappy title for your story or content or go with something basic.
+:::
+
+### Saving
+
 * Make a new folder on your computer and call it “xx-webpage” using your initials. 
 * Save your story in the folder with .txt as the extension-- Give it a title with no spaces or punctuation other than dashes or underscores, like “about-zm.txt” This is the text version of your story, the raw content.
 * Also, save your story in the folder with .html as the extension, instead of .txt-- this will be your web version. The .html tells the browser to look for html code in the file. Give it a title with no spaces or punctuation other than dashes or underscores, like “about-zm.html”
@@ -119,11 +148,11 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 
 ::: notes
 
-[10 mins ]
+[10 mins]
 
 :::
 
-marking up their story
+#### marking up their story
 
 ::: notes
 
@@ -131,9 +160,25 @@ marking up their story
 
 > Tip! A great way to help learners do this, if you have access to an instructor’s computer and projector, is to do the activity on your own content along with learners, and project the results so everyone can see what you’re doing. 
 
+:::
+
+
+* Start the file ```<!DOCTYPE html>```
+* Add an ```<html>``` and ```</html>``` tags that wrap around the ENTIRE page -- so everything inside can get tagged with markup language. 
+* After this, make a section with a set of tags called ```<head> </head>``` at the top of the page, before all your written content.
+  * Put ```<title> Your Title</title>``` inside the head
+* Add ```<body>``` tags around the entire text for the page. 
+* Use h1 for your page’s top headline, the on-screen title for your story (different from the title tag)
+* Use h2 or h3 tags for section headings
+* Use p tags for paragraphs
+* Don’t forget your closing tags!
+* Finally, when you’ve added all your tags, save the page! 
+
+::: notes
+
 * Start the file with a doctype tag-- this is one of the only tags that doesn’t have content inside, and no closing tag-- it’s a lonely single tag, reminding the browser, again that we’re writing html<!DOCTYPE html>
-* Add an <html> and </html> tags that wrap around the ENTIRE page-- so everything inside can get tagged with markup language. 
-* After this, make a section with a set of tags called <head> </head> at the top of the page, before all your written content. We’ll put one bit of content in here for the browser, but we won’t see it appear on the main page itself. This is the page title, which:
+* Add an ```<html>``` and ```</html>``` tags that wrap around the ENTIRE page-- so everything inside can get tagged with markup language. 
+* After this, make a section with a set of tags called ```<head> </head>``` at the top of the page, before all your written content. We’ll put one bit of content in here for the browser, but we won’t see it appear on the main page itself. This is the page title, which:
     * defines a title in the browser tab
     * provides a title for the page when it is added to favorites
     * displays a title for the page in search engine results. 
@@ -152,19 +197,28 @@ How does it look? Are you seeing your content formatted for the web? Do you see 
 * Congratulate everyone on the pages they’ve made! They are now web designers! Remind folks that the pages are still on their local computers, and not actually on the web! But they are ready to go there. 
 * Have a brief discussion about uploading to servers, about web hosting, what it means, how it works, how much it costs, what hosting companies do. 
 
-### Go Online! 
+:::
+
+### Lets have a look
+
+* Now, open your favorite browser
+* Go to File > open file. Navigate to your folder, and click on the html file you just made.
+* How does it look? 
+* Are you seeing your content formatted for the web? 
+* Do you see your title appearing in the tab at the top of the browser bar? 
+* If things don’t look right, what might have happened? 
 
 ::: notes
+
+### Go Online! 
+
 [15 mins]
-:::
 
 * If your institution has server space and resources available, show participants how to use a file transfer application (such as fetch) to transfer their pages to a folder on the server. Talk about UPLOADING vs DOWNLOADING
 * Discuss how the URL will be constructed, ask users to figure out their own URLs -- domain name, class folder name, personal folder name, page name.
 * Once all the pages are on the server, have users point their browsers to the URL on the web to see their pages. You’re on the web for real! Woo-hoo!
 
 > Tip! If time, have a brief discussion of web hosting, what it means, how it works, how much it costs, what hosting companies do. 
-
-::: notes
 
 ### Learning Experience Reflection 
 
