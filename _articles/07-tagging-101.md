@@ -74,15 +74,15 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 
 > Tip! Ask who knows some examples of web browsers.
 
-* We’re going to explore HTML today, specifically how we use HTML to make our content -- text, images, etc-- readable by browsers and easy for humans to read and understand.
-
 :::
+
+* We’re going to explore HTML today, specifically how we use HTML to make our content -- text, images, etc-- readable by browsers and easy for humans to read and understand.
 
 ### Content & Tags 
 
 ::: notes
 
-(5-7 mins)
+[5-7 mins]
 
 * For this activiy, you need two visual aids:
     * 1) the front page of a newspaper showing images, headlines, bylines, text, paragraphs, columns
@@ -113,9 +113,15 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 
 ### Marking Up
 
+ * When we want to tag some content, we surround it with a matching pair of words, each word surrounded by  a set of brackets “< >”. 
+* Here’s an example tag: 
+
 ```
 <title> Tag the World </title>
 ```
+
+In this example, what is the title? 
+    
 
 ::: notes
 
@@ -189,12 +195,17 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 
 ### Tags In Action 
 
+* Let’s practice using some real tags that are part of the HyperText Markup Language (HTML). 
+* First, let’s check out a simple HTML document -- guess what-- from a web designer and developer, when they are building web pages, what they are working with is HTML code in a simple text file. 
+
+> Tip!  Open a simple HTML document in a text editor-- NotePad for PC and TextEdit for Mac, and also show it in a browser. Point out the tags in the document, and and show what they do. Suggested basic tags: h1, h2, h3, p, a, body. You can also show a more complex document (use View Source in the browser) to show that all web pages are text and code interpreted by the computer. 
+
+
 ::: notes
 [15 mins]
 
 
-* Introduction: Explain that we’ve seen what tags look like, and how they work with content (what’s inside the tags). Now let’s practice using some real tags that are part of the HyperText Markup Language (HTML). 
-* First, let’s check out a simple HTML document-- guess what-- from a web designer and developer, when they are building web pages, what they are working with is HTML code in a simple text file. 
+
 
 > Tip!  Open a simple HTML document in a text editor-- NotePad for PC and TextEdit for Mac, and also show it in a browser. Point out the tags in the document, and and show what they do. Suggested basic tags: h1, h2, h3, p, a, body. You can also show a more complex document (use View Source in the browser) to show that all web pages are text and code interpreted by the computer. 
 
